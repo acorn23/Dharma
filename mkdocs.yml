@@ -1,0 +1,35 @@
+site_name: Dharma
+site_url: https://acorn23.github.io/dharma/
+nav:
+  - Home: index.md
+  - General:
+      - Beauty: beauty.md
+      - Dead Internet Theory: dead_internet_theory.md
+      - Understanding Reality: reality.md
+      - Crypto currency: mining_monero.md
+  - Science:
+      - Space: space.md
+  - AI:
+      - AI Governing Humans: ai.md 
+  - Geopolitics:
+      - Global:
+          - Gaza Genocide: gaza.md
+          - USA: USA.md
+          - Ukraine War: ukraine.md
+          - Iran War: iran.md
+      - India:
+          - Withering Democracy: autocracy.md
+          - Global Relations: india.md
+          - Financial System: finance.md
+  - Archive:
+      - The Sacrificial Machine—How Private Finance Turned War into Permanent Profit: war.md 
+  - Resources: resources.md
+  - About: about.md
+
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra_css:
+  - stylesheets/extra.css
