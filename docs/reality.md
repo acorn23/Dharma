@@ -15,8 +15,8 @@ It was important to increase the odds of survival by making it easier to identif
 
 In today's constructed society, the ruling class utilizes our flawed understanding of reality to influence, control, and govern the population.
 
-During , the geocentric model of the Solar System was most widely accepted until Copernicus made observations that proved that Sun is the center of our Solar System— the Heliocentric model was born.
-Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective.
+During the 16th century, the geocentric model of the Solar System which placed Earth at it's center was most widely accepted until Copernicus made observations that proved that Sun is the actual center of our Solar System— the Heliocentric model was born.
+Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective. In reality the planets are irregulary shaped ellipsoids and revolve in eleptical orbits. This example shows how beliefs shape reasoning. 
 ## Science is a tool to understand reality
 
 Every scientific theory begins with an assumption and therefore it cannot prove its own assumptions. You can postulate a sub-theory to prove the assumptions of the original theory but now this new theory will have its own assumptions and so on. This is why there cannot be a Theory of Everything.
@@ -49,8 +49,8 @@ Examples include:
 - Political systems
 - Social institutions
 - Money and other economic systems
->
-Note: I am not targetting religion but merely stating facts, a human no matter how objectively he/she might live need various illusions to live a happy life given how harsh the reality really is and hence its important to respect every persons beliefs and values.
+
+>Note: I am not targetting religion but merely stating facts, a human no matter how objectively he/she might live need various illusions to live a happy life given how harsh the reality really is and hence its important to respect every persons beliefs and values.
 See [Religion](religion.md) section.
 
 ## Nature of Human Understanding
