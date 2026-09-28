@@ -29,7 +29,7 @@ Religious individuals have a right to practice but I believe it is also importan
 
 # Weaponisation Of Religions
 
-As we have seen from [Reality](reality.md) section, religions are really good at trapping people in [Plato's caves](platos_cave.md). Thus dividing them at the level of fundamental beliefs.
+As we have seen from [Reality](reality.md) section, religions are really good at trapping people in Plato's caves. Thus dividing them at the level of fundamental beliefs.
 This phenomenon is being actively exploited by Governments and organisations around the world to perform deeds that I can only describe as true horrors unfolding right in front of our eyes. Some examples include:
 
 ## Israel
