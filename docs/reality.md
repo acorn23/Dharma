@@ -1,7 +1,7 @@
 # Reality
 
 
-![heaven](img/Flammarion_engraving.jpg)
+![jester](img/Jan_Matejko_Stanczyk.jpg)
 
 
 Life began on planet Earth by accident. A single protozoan divided, multiplied, and eventually evolved into many different forms of life. A vast majority of the species have already gone extent, some are on the verge and those we see around us are still undergoing evolution.
@@ -14,6 +14,14 @@ For example, the light is colourless, it has no colour but our brain has evolved
 It was important to increase the odds of survival by making it easier to identify dangers such as a cliff and not fall into it.
 
 In today's constructed society, the ruling class utilizes our flawed understanding of reality to influence, control, and govern the population.
+
+During , the geocentric model of the Solar System was most widely accepted until Copernicus made observations that proved that Sun is the center of our Solar System— the Heliocentric model was born.
+Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective.
+## Science is a tool to understand reality
+
+Every scientific theory begins with an assumption and therefore it cannot prove its own assumptions. You can postulate a sub-theory to prove the assumptions of the original theory but now this new theory will have its own assumptions and so on. This is why there cannot be a Theory of Everything.
+
+We can conduct scientific experiments and conclude with certainity that the results appear to be consistent but we cannot say with certainity if its the truth.
 
 ## Types of Reality
 
@@ -42,21 +50,18 @@ Examples include:
 - Social institutions
 - Money and other economic systems
 >
-Note: we are not targetting religion but merely stating facts, a human no matter how objectively he/she might live need various illusions to live a happy life given how harsh the reality really is and hence its important to respect every persons beliefs and values.
-> 
+Note: I am not targetting religion but merely stating facts, a human no matter how objectively he/she might live need various illusions to live a happy life given how harsh the reality really is and hence its important to respect every persons beliefs and values.
+See [Religion](religion.md) section.
+
 ## Nature of Human Understanding
+### Human Reasoning
 
-Understanding exists within the confines of an implicit milieu—a shared environment of assumptions, beliefs, language, and experiences held by those embedded within it.
-
-As a result, people often interpret reality according to the framework they have inherited rather than according to reality itself.
-
-## Human Reasoning
 
 > Refer to [*The Believing Brain*](resources/books/the_believing_brain.pdf) by Michael Shermer for a better understanding. See the [Resources](resources.md) section for more information.
 
 Human reasoning is flawed.
 
-Brain defends what it believes in.
+Brain naturally defends what it believes in.
 
 A logician or scientist may get frustrated and wonder if only everyone would think logically and believe in modern science, the result would be that world can become so much better and many problems can be solved. Whereas a religious person believes in god and may hate science and wonder how to spread the message of god to everyone so all can walk the righteous path which the god intended.
 
@@ -65,15 +70,4 @@ This is not how reality works and the only way to coexist is to accept and respe
 As an aetheist who comes from a highly religious family I have observed how people close to me with deep spritual beliefs get frustarted and try to impose their beliefs upon me. The anger that stems from within just because I do not pray is really something to behold. They probably care about me and don't want me to end up in hell and follow god's commandments and so on.
 
 The problem that always arises is how deeprooted their beliefs become that it becomes virtually impossible to penetrate the defensive bubble defending their beliefs. Not even reasoning works here. Because religions seem to be designed carefully with failsafe loopholes. Such as it is wrong to question god, or whatever happens is by the will of  a god.
-
-# Weaponisation Of Religions
-
-As we have seen from above section, religions are really good at trapping people in [Plato's caves](). Thus dividing them at the level of fundamental beliefs.
-This phenomenon is being actively exploited by Governments and organisations around the world to perform deeds that I can only describe as true horrors unfolding right in front of our eyes. Some exaples include:
-
-The State of Israel is justifying its killing by comparing their actions to the religious text of Jews.
-
-The US Government being a puppet of Israel has actively maintained how its a moral duty of American Christians to support Israel in its deeds by manipualting the meaning of bible's text.
-
-In India the RSS (a paramilitary organisation) which has one goal of converting India into a pure Hindu nation has actively maintained enemity and racism between majority hindu and the minority muslim population for a long time.
 
