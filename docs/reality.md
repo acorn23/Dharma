@@ -15,14 +15,27 @@ It was important to increase the odds of survival by making it easier to identif
 
 In today's constructed society, the ruling class utilizes our flawed understanding of reality to influence, control, and govern the population.
 
-During the 16th century, the geocentric model of the Solar System which placed Earth at it's center was most widely accepted until Copernicus made observations that proved that Sun is the actual center of our Solar System— the Heliocentric model was born.
-Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective. In reality the planets are irregulary shaped ellipsoids and revolve in eleptical orbits. This example shows how beliefs shape reasoning. 
-## Science is a tool to understand reality
+### Brain in a box
+
+Brain is confined in the darkness of the cranium and solely relies on the nervous signals it receives from the various sensory organs of the body to paint a picture of the reality. Think of it as brain wearing a VR headset. Each persons VR headset is slightly different, just like the manufacturing defects in silicon due to which no semiconductor or sensor of a camera can be truely similar in all respects.
+
+This is why what is orange to me is not the same orange to you because we can not wear the other persons VR headset.
+
+
+Tetrachromacy is a rare genetic disorder affecting around 12% of the women population. It allows the affected individuals to perceive far more colours than a normal individual and is therefore also called 'super vision'. It is estimated that tetrachromatic individuals can perceive 100 million distinct colours compared to only about 1 million colours possible by normal human vision.
+
+Now imagine standing next to a super vision women and looking at a beautiful hill.
+Both of you describe what you see to eachother with the limited vocabulary provided by the language. You both find it beautiful but does it appear more beautiful to the super vision eyes capable of transcribing so many more colours ?
+### Science is a tool to understand reality
 
 Every scientific theory begins with an assumption and therefore it cannot prove its own assumptions. You can postulate a sub-theory to prove the assumptions of the original theory but now this new theory will have its own assumptions and so on. This is why there cannot be a Theory of Everything.
 
 We can conduct scientific experiments and conclude with certainity that the results appear to be consistent but we cannot say with certainity if its the truth.
 
+### Beliefs shapes Reasoning
+
+During the 16th century, the geocentric model of the Solar System which placed Earth at it's center was most widely accepted until Copernicus made observations that proved that Sun is the actual center of our Solar System— the Heliocentric model was born.
+Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective. In reality the planets are irregulary shaped ellipsoids and revolve in eleptical orbits. This example shows how beliefs shape reasoning. 
 ## Types of Reality
 
 ### 1. The Reality
@@ -63,3 +76,4 @@ Human reasoning is flawed.
 
 Brain naturally defends what it believes in.
 
+wip
