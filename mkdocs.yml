@@ -29,6 +29,16 @@ nav:
 
 theme:
   name: material
+  palette:
+    primary: deep purple
+  logo: img/atom.png
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - header.autohide
+    - navigation.footer
+plugins:
+  - blog
 markdown_extensions:
   - attr_list
   - md_in_html
