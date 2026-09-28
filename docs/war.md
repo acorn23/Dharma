@@ -8,7 +8,7 @@ source: https://wendywilliamson.substack.com/p/the-sacrificial-machine
 
 # The Sacrificial Machine—How Private Finance Turned War into Permanent Profit
 
-By Wendy Williamson
+By [Wendy Williamson](https://wendywilliamson.substack.com/p/the-sacrificial-machine)
 
 "War is a racket.
 
