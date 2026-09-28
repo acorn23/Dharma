@@ -63,11 +63,3 @@ Human reasoning is flawed.
 
 Brain naturally defends what it believes in.
 
-A logician or scientist may get frustrated and wonder if only everyone would think logically and believe in modern science, the result would be that world can become so much better and many problems can be solved. Whereas a religious person believes in god and may hate science and wonder how to spread the message of god to everyone so all can walk the righteous path which the god intended.
-
-This is not how reality works and the only way to coexist is to accept and respect eachothers beliefs and values.
-
-As an aetheist who comes from a highly religious family I have observed how people close to me with deep spritual beliefs get frustarted and try to impose their beliefs upon me. The anger that stems from within just because I do not pray is really something to behold. They probably care about me and don't want me to end up in hell and follow god's commandments and so on.
-
-The problem that always arises is how deeprooted their beliefs become that it becomes virtually impossible to penetrate the defensive bubble defending their beliefs. Not even reasoning works here. Because religions seem to be designed carefully with failsafe loopholes. Such as it is wrong to question god, or whatever happens is by the will of  a god.
-

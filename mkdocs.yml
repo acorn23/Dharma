@@ -4,9 +4,9 @@ nav:
   - Home: index.md
   - General:
       - Beauty: beauty.md
-      - Dead Internet Theory: dead_internet_theory.md
       - Understanding Reality: reality.md
       - Religion: religion.md
+      - Dead Internet Theory: dead_internet_theory.md
       - Crypto currency: mining_monero.md
   - Science:
       - Space: space.md
