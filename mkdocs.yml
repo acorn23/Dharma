@@ -5,7 +5,8 @@ nav:
   - General:
       - Beauty: beauty.md
       - Understanding Reality: reality.md
-      - Religion: religion.md
+      - Superstition: superstition.md
+      - Death: death.md
       - Dead Internet Theory: dead_internet_theory.md
       - Crypto currency: mining_monero.md
   - Science:
@@ -14,9 +15,9 @@ nav:
       - AI Governing Humans: ai.md 
   - Geopolitics:
       - Global:
+          - Ukraine War: ukraine.md
           - Gaza Genocide: gaza.md
           - USA: USA.md
-          - Ukraine War: ukraine.md
           - Iran War: iran.md
       - India:
           - Withering Democracy: autocracy.md

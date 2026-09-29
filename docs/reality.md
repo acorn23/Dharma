@@ -1,7 +1,7 @@
 # Reality
 
 
-![jester](img/Jan_Matejko_Stanczyk.jpg)
+![Flammarion_engraving](img/Flammarion_engraving.jpg)
 
 
 Life began on planet Earth by accident. A single protozoan divided, multiplied, and eventually evolved into many different forms of life. A vast majority of the species have already gone extent, some are on the verge and those we see around us are still undergoing evolution.
@@ -63,9 +63,6 @@ Examples include:
 - Social institutions
 - Money and other economic systems
 
->Note: I am not targetting religion but merely stating facts, a human no matter how objectively he/she might live need various illusions to live a happy life given how harsh the reality really is and hence its important to respect every persons beliefs and values.
-See [Religion](religion.md) section.
-
 ## Nature of Human Understanding
 ### Human Reasoning
 
@@ -74,6 +71,7 @@ See [Religion](religion.md) section.
 
 Human reasoning is flawed.
 
-Brain naturally defends what it believes in.
+Brain has a tendency to naturally defends it's beliefs. Therefore often human beings do not reason to reach a conclusion but use reasoning to justify already established conclusions that appear true to them.
 
-wip
+
+><span style="color:yellow">**Section Under Construction**</span>

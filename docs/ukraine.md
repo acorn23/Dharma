@@ -26,11 +26,13 @@ I would spend the next 3 years searching for an answer to many questions includi
 
 NATO stands for North Atlantic Treaty Organisation was an agreement of many European countries and Canada which received aid from USA to stand strong against the Soviet Union.
 
-##### Well Soviet Union is gone so why hasn't NATO?
+#### Well Soviet Union is gone so why hasn't NATO?
 These countries have been free riding on USA's money for decades.
 
 European Union continues to trade Russia's oil at one hand and aiding Ukraine at another.
 #### Bot Farms
 
+NATO has been developing an army of bots to manipulate the narratives on social media and target organisations and individuals such as journalists to supress the truth.
 
-wip
+
+><span style="color:yellow">**Section Under Construction**</span>

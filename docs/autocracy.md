@@ -1,3 +1,4 @@
+>work in progress
 # Withering Democracy
 Democracy does not exist anymore. Let that sink in and spread the word.
 It has been replaced by **Electoral Autocracy**,a form of governance where illusion of election ensures masses believe in the existance of a democratic system when in reality all the foundationally important institutions are owned and controlled by the regime including the electoral commission and the supreme court. 

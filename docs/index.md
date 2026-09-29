@@ -17,7 +17,7 @@ This page exists to be a not so personal diary of me where I write about the thi
 
 ### Why host a static website over tor network instead of just using social media ?
 
-In short, because the [internet is DEAD](dead_internet_theory.md)
+In short, because the [Internet is DEAD](dead_internet_theory.md)
 
 I had my first exposure to the internet back in 2011 when my dad bought a personal computer home. Those were simple times, I would spend hours playing flash games, trying to discover the things that mattered to me on YouTube and internet.
 
