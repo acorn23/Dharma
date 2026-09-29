@@ -4,7 +4,7 @@
 
 <br>
 
-![Prayer](img/pray.avif)
+![Prayer](img/pray.webp)
 
 <center>“You cannot be governed; you just didn’t realize it yet.”</center>
 <center>— <a href="http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/index.html">Nowhere Community</a></center>

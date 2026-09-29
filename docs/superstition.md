@@ -1,4 +1,4 @@
-![Jester](img/Jan_Matejko_Stanczyk.jpg)
+![Jester](img/Jan_Matejko_Stanczyk.webp)
 
 <center>Stańczyk by Jan Matejko</center>
 
@@ -28,7 +28,7 @@ Most religions have good teachings and guides how to live a proper life which I 
 
 Religious individuals have a right to practice but I believe it is also important to open their eyes to the modern science and stop ignoring scientific facts based on logic that contradict stories.
 
-![suffering](img/suffering.jpg)
+![suffering](img/suffering.webp)
 
 *Some people live in towers so tall, they look down upon the clouds.*
 
@@ -44,7 +44,7 @@ Religious individuals have a right to practice but I believe it is also importan
 
 *This is the true nature of our world.*
 
-![Prayers](img/prayers.jpg)
+![Prayers](img/prayers.webp)
 
 ## Weaponisation Of Religions
 
@@ -74,15 +74,13 @@ There are many factors governing this phenomenon but the fact that Prophet Moham
 
 ## USA
 
-### Manipulating Bible
-
 The US Government being a puppet of Israel has actively maintained how its a moral duty of American Christians to support Israel in its deeds by manipualting the meaning of bible's text.
 
 ## India
 
 In India the RSS (a paramilitary organisation) which has one goal of converting India into a pure Hindu nation has actively maintained enemity and racism between majority hindu and the minority muslim population for a long time.
 
-# Formidable things achieved by Religions
+## Formidable things achieved by Religions
 
 The deeprooted common beliefs imposed by religion upon its followers has it's commendable outcomes as well:
 
