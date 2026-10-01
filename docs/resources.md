@@ -24,7 +24,7 @@
 - [The Age of Surveillance Capitalism](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
 - [Forms of Life](resources/books/forms_of_life.pdf)
 - [Higgs In A Box](resources/books/higgs_in_a_box.pdf)
-
+- [BTI 2026 Report of India](resources/books/country_report_2026_IND.pdf)
 ### Surveillance Resources
 
 - [Digital Authoritarianism in India](resources/surveillance/digital-authoritarianism-india.pdf)

@@ -5,7 +5,8 @@ nav:
   - General:
       - Beauty: beauty.md
       - Understanding Reality: reality.md
-      - Superstition: superstition.md
+      - Superstition and Belief Systems: superstition.md
+      - Postmodernism: postmodernism.md
       - Death: death.md
       - Dead Internet Theory: dead_internet_theory.md
       - Crypto currency: mining_monero.md
@@ -18,6 +19,7 @@ nav:
           - Ukraine War: ukraine.md
           - Gaza Genocide: gaza.md
       - India:
+          - Withering Democracy: autocracy.md
           - Financial System: finance.md
   - Archive:
       - The Sacrificial Machine—How Private Finance Turned War into Permanent Profit: war.md 
@@ -39,5 +41,6 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - pymdownx.tilde
 extra_css:
   - stylesheets/extra.css

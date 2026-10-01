@@ -45,7 +45,26 @@ Religious individuals have a right to practice but I believe it is also importan
 *This is the true nature of our world.*
 
 ![Prayers](img/prayers.webp)
+<br>
 
+### Lack of Self-Correcting Mechanism
+
+When a baby first tries to walk, it tends to fall down. It may be guided by it's parents but he/she has to figure out why they fell down and try something different the next time. 
+
+Religions have no self correcting mechanism. They claim their holy texts to be God's commandments which are perfect and absolute. The times have changed greately since they were written and while you can interpret them in differnet ways, there is no way to correct them.
+
+Science works because it’s suspicious of itself. Every claim is temporary, every conclusion is on probation. It keeps on improving and expanding everyday.
+The Scientific journals publish mostly the corrections made over previous knowledge.
+There are barely any new discoveries but a major part is researching what we already know to improve our understanding and derive knowledge and ideas.
+
+### How to construct a Belief System such as Religion
+
+If you want to make a new system of belief, make up a lot of stories and bombard people with it until they are overwhelmed. However there should be some truth to it, as a system compeltely oblivious to truth will eventually collapse.
+And finally make it devoid of any self correcting mechanism.
+
+If I ask you to picture Jesus Christ you can easily do so but in reality every depiction of Jesus is fictional as there is absolutely no description of him in Bible nor were any portraits made during his life time.
+
+When enough people believe in something it influences their art and culture which in turn is perceived as reality not only to them but to others who are also a part of the culture.
 ## Weaponisation Of Religions
 
 Religions are really good at trapping people in Plato's caves. Thus dividing them at the level of fundamental beliefs.
@@ -94,4 +113,4 @@ I will leave it as a hypothesis for now, any suggestions are appreciated.
 
 <br>
 
-> <span style="color:yellow">Disclaimer</span>: I do not intend to attack religions but bring focus towards the deeprooted problems which need to be addressed urgently but likely never will be.
+> <span style="color:yellow">Disclaimer</span>: I do not intend to attack religions or their believers. I am only looking at them from an objective perspective. 
