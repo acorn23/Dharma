@@ -3,13 +3,15 @@ site_url: https://acorn23.github.io/dharma/
 nav:
   - Home: index.md
   - General:
+      - Dead Internet Theory: dead_internet_theory.md
+      - Crypto currency: mining_monero.md
+  - Philosophy:
+      - Introduction: introduction.md
       - Beauty: beauty.md
       - Understanding Reality: reality.md
       - Superstition and Belief Systems: superstition.md
       - Postmodernism: postmodernism.md
       - Death: death.md
-      - Dead Internet Theory: dead_internet_theory.md
-      - Crypto currency: mining_monero.md
   - Science:
       - Space: space.md
   - AI:
