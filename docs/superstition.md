@@ -1,5 +1,6 @@
 
-> At present, things are still quite different; at present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
+> At present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
+<br>
 >~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
 
 ![Jester](img/Jan_Matejko_Stanczyk.webp)
@@ -18,23 +19,21 @@ A belief held by someone refers to a commitement made towards cetain view of rea
 
 ### Afterlife
 
-[Death](death.md) is a scary concept but beliefs that one day, people can transcend to a better place and reunite with the people they lost eases suffering and dealing with grief caused from loosing a loved one or the fear of death itself.
+[Death](death.md) is scary but beliefs that one day, people can transcend to a better place and reunite with the people they lost eases suffering and dealing with grief caused from loosing a loved one or the fear of death itself.
 
 ### Religion and God
 
-Believing that a powerful being is always looking after you makes it easier to live life for many people especially when reality has been really unforgiving to them.
+Believing that an all powerful, omnipresent being is always looking after you makes it easier to live life for many people especially when reality has been really unforgiving to them.
 
-Escapes are important part of life, I personally love movies not just for the escapism they offer into other worlds but I have also formed a deep appreciation for cinematography itself.
+I do not consider myself a nihilist based on my understanding of the term, but certain aspects of nihilism resonate with me. A consequence of being an atheist from this perspective is understanding how meaningful religion makes one's life for the people living in blissful ignorance.
 
-But when the movie ends you are back into the real world. The distinction between the movie and the real world is obvious and you certainly don't start believing the fiction to be real.
+For people under suffering, uncertainty, grief, or fear. If religions give life meaning, if they make life worth living then they in turn promote the continuity of the species.
 
-Religion is like a movie too, fictious stories that have no underlying proof and reasoning.
+Perhaps this is why they still persist even if they reduce intellectual rigidity or relaism; they pretend to answer psychological needs that raw reality often does not: meaning, consolation, identity, and social order.
 
-I do not consider myself a nihilist based on my understanding of the term, but certain aspects of nihilism resonate with me. The tragedy of being an atheist from this perspective is understanding how meaningful religion makes one's life for the people living in blissful ignorance.
+But this is the biggest problem with religions; the submission of individuals to their religion, undermining their reasoning and curiosity and the very **distortion** in perceiving the **real truth** because of an absence of any self-correcting mechanism.
 
-If religions give life meaning, if they make life worth living then they in turn promote the continuity of the species.
 
-Therefore I believe that the only thing wrong with religions is the submission of individuals to their religion, undermining their reasoning and curiosity and the very distortion in perceiving the real truth.
 
 ![suffering](img/suffering.webp)
 
@@ -107,18 +106,3 @@ The US Government being a puppet of Israel has actively maintained how its a mor
 
 In India the RSS (a paramilitary organisation) which has one goal of converting India into a pure Hindu nation has actively maintained enemity and racism between majority hindu and the minority muslim population for a long time.
 
-## Formidable things achieved by Religions
-
-The deeprooted common beliefs imposed by religion upon its followers has it's commendable outcomes as well:
-
-## Financial System of Iran
-
-Iran is not only the largest and strongest of the Islamic countries but operates the world’s only fully interest-free (riba-free) banking regime. This stands in direct contrast to the conventional Western model, which relies on interest as its primary revenue mechanism.
-
-It does appear to be ethically better in theory but I do suspect that in practice it has lot of potential to be exploited especially in an autocratic regime and I also believe just considering one aspect is not enough to justify it as morally superior. I hate the financial system and therefore lack enough knowledge to make a clear argument.
-
-I will leave it as a hypothesis for now, any suggestions are appreciated.
-
-<br>
-
-> <span style="color:yellow">Disclaimer</span>: I do not intend to attack religions or their believers. I am only looking at them from an objective perspective. 

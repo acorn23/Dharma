@@ -5,7 +5,7 @@ It's natural to question the meaning of life, to suddenly become aware of the st
 Sometimes you just wonder; why am I doing whatever I do. Getting up in the morning, going to work, indulging in a hobby, taking a break, going to sleep and repeating it all over again.
 You can try and contemplate the reasons following a chain of causality until you reach a point where you can no longer further relate it to a deeper underlying cause. This final cause will always be subjective, perhaps it's your preference and desire. It's something that matters to you and therefore it gives you a meaningful reason to exist. 
 
-This fundamental reason a person may conclude is never objective and therfore not universal. 
+This fundamental self justifying principle a person may conclude is never objective and therfore not universal. 
 A religious person may live for a God, that's what gives their life meaning whereas someone else who cares for their children works to provide them a good life.
 
 If I try to reach an objective conclusion with Science, I would mention Darwin's Theory of Evolution. The purpose of any living organism is to survive long enough to give birth to their offsprings and ensure the continuity of their species. Perhaps this is why most people have children and wether they liked the tidious process of having children or not, their life will likely be more meaningful than people who don't have children.
