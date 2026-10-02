@@ -1,31 +1,44 @@
 # Resources
-
-## Books
-- [9/11 — Noam Chomsky — 2001](<resources/books/9 11 -- Noam Chomsky -- 2001.pdf>)
-- [The Modern Survival Retreat — Ragnar Benson](<resources/books/Benson, Ragnar - The Modern Survival Retreat.pdf>)
-- [Berry Computer](<resources/books/berry-computer.pdf>)
-- [The Demon-Haunted World — Carl Sagan](<resources/books/Carl Sagan - The Demon Haunted World.pdf>)
+## Fiction
 - [Do Androids Dream of Electric Sheep? — Philip K. Dick](<resources/books/Do Androids Dream of Electric Sheep - Blade Runner PKD 1968.pdf>)
-- [The Brainwashing Manual](<resources/books/ebook.-.PDF.The.Brainwashing.Manual.pdf>)
-- [Human Rights Council — GAZA GENOCIDE](<resources/books/Human Rights Council Sixty-second session.pdf>)
-- [Gaza's Gravedeiggers](resources/books/Gazas_Gravediggers.pdf)
-- [Mastering Monero — First Edition](<resources/books/Mastering Monero First Edition by SerHack and Monero Community.pdf>)
-- [Extreme Privacy: Mobile Devices — Michael Bazzell](<resources/books/Michael Bazzell - Extreme Privacy_ Mobile Devices-Michael Bazzell (2023).pdf>)
 - [Neuromancer](<resources/books/neuromancer.pdf>)
-- [The Power of the Subconscious Mind — Joseph Murphy](<resources/books/Power of The Subconscious Mind - Joseph Murphy.pdf>)
+
+## Philosophy, psychology, and human behavior
 - [The Believing Brain](<resources/books/the_believing_brain.pdf>)
-- [The Righteous Mind](<resources/books/The-Righteous-Mind.pdf>)
-- [The Path to Total Dictatorship](<resources/books/The Rutherford Institute __ The Path to Total Dictatorship_ America's Shadow Government and Its Silent Coup _.pdf>)
-- [The Sacrificial Machine](<resources/books/The Sacrificial Machine—How Private Finance Turned War into Permanent Profit.pdf>)
-- [Mortal Questions — Thomas Nagel](<resources/books/[Thomas_Nagel]_Mortal_Questions(BookSee.org).pdf>)
-- [Worthless Paper Promises — LewRockwell](<resources/books/Worthless Paper Promises - LewRockwell.pdf>)
-- [Zero to Monero — Version 2.0.0](<resources/books/Zero-to-Monero-2-0-0.pdf>)
-- [Resolution 2803](resources/books/resolution2803.pdf)
-- [The Age of Surveillance Capitalism](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
 - [Forms of Life](resources/books/forms_of_life.pdf)
-- [Higgs In A Box](resources/books/higgs_in_a_box.pdf)
+- [The Gay Science — Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
+- [Mortal Questions — Thomas Nagel](<resources/books/[Thomas_Nagel]_Mortal_Questions(BookSee.org).pdf>)
+- [The Power of the Subconscious Mind — Joseph Murphy](<resources/books/Power of The Subconscious Mind - Joseph Murphy.pdf>)
+- [The Righteous Mind](<resources/books/The-Righteous-Mind.pdf>)
+
+## Science and critical thinking
+- [The Demon-Haunted World — Carl Sagan](<resources/books/Carl Sagan - The Demon Haunted World.pdf>)
+- [Higgs in a Box](resources/books/higgs_in_a_box.pdf)
+
+## Technology, computing, and cryptocurrency
+- [Berry Computer](<resources/books/berry-computer.pdf>)
+- [Mastering Monero — First Edition](<resources/books/Mastering Monero First Edition by SerHack and Monero Community.pdf>)
+- [Zero to Monero — Version 2.0.0](<resources/books/Zero-to-Monero-2-0-0.pdf>)
+
+## Privacy, security, and survival
+- [The Brainwashing Manual](<resources/books/ebook.-.PDF.The.Brainwashing.Manual.pdf>)
+- [Extreme Privacy: Mobile Devices — Michael Bazzell](<resources/books/Michael Bazzell - Extreme Privacy_ Mobile Devices-Michael Bazzell (2023).pdf>)
+- [The Modern Survival Retreat — Ragnar Benson](<resources/books/Benson, Ragnar - The Modern Survival Retreat.pdf>)
+
+## Politics, conflict, and human rights
+- [9/11 — Noam Chomsky — 2001](<resources/books/9 11 -- Noam Chomsky -- 2001.pdf>)
+- [Gaza’s Gravediggers](resources/books/Gazas_Gravediggers.pdf)
+- [Human Rights Council — Gaza Genocide](<resources/books/Human Rights Council Sixty-second session.pdf>)
+- [The Path to Total Dictatorship](<resources/books/The Rutherford Institute __ The Path to Total Dictatorship_ America's Shadow Government and Its Silent Coup _.pdf>)
+- [Resolution 2803](resources/books/resolution2803.pdf)
+- [The Sacrificial Machine](<resources/books/The Sacrificial Machine—How Private Finance Turned War into Permanent Profit.pdf>)
 - [BTI 2026 Report of India](resources/books/country_report_2026_IND.pdf)
-### Surveillance Resources
+
+## Economics and finance
+- [The Age of Surveillance Capitalism](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
+- [Worthless Paper Promises — LewRockwell](<resources/books/Worthless Paper Promises - LewRockwell.pdf>)
+
+## Surveillance Resources
 
 - [Digital Authoritarianism in India](resources/surveillance/digital-authoritarianism-india.pdf)
 - [Government Surveillance and Privacy in India](resources/surveillance/government-surveillance-privacy-india.pdf)

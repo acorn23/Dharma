@@ -1,6 +1,13 @@
-![Jester](img/Jan_Matejko_Stanczyk.webp)
 
+> At present, things are still quite different; at present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
+
+>~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
+
+<br>
+
+![Jester](img/Jan_Matejko_Stanczyk.webp)
 <center>Stańczyk by Jan Matejko</center>
+<br>
 
 ## Reality is harsh and sad
 
@@ -10,13 +17,16 @@ We are all alone in the vastness of our observable universe. We are not special 
 
 ## Belief in Various Superstitions
 
+A belief held by someone refers to a commitement made towards cetain view of reality. Beliefs and actions do not always align.
+
 ### Afterlife
 
-[Death](death.md) is a scary concept but beliefs that one day, they can transcend to a better place and reunite with the people they lost eases suffering and dealing with grief caused from loosing a loved one or the fear of death itself.
+[Death](death.md) is a scary concept but beliefs that one day, people can transcend to a better place and reunite with the people they lost eases suffering and dealing with grief caused from loosing a loved one or the fear of death itself.
 
 ### Religion and God
 
 Believing that a powerful being is always looking after you makes it easier to live life for many people especially when reality has been really unforgiving to them.
+It also promotes the continuity of species by giving meaning to life. It makes life worth living.
 
 Escapes are important part of life, I personally love movies not just for the escapism they offer into other worlds but I have also formed a deep appreciation for cinematography itself.
 
@@ -42,7 +52,7 @@ Religious individuals have a right to practice but I believe it is also importan
 
 *Hundreds of Millions offer their prayers to God.*
 
-*This is the true nature of our world.*
+~ **Platinum End by Tsugumi Ohba**
 
 ![Prayers](img/prayers.webp)
 <br>
