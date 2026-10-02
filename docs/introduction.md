@@ -12,4 +12,6 @@ If I try to reach an objective conclusion with Science, I would mention Darwin's
 
 But I personally do not resonate with it. I have formed my own subjective underlying reasons which I find meaningful to some extent. I value knowledge and understanding objective reality, and I am constantly seeking answers to many questions be it big or small. For some reason the fact that so many things remain unknown to humans consoles me.
 
+Perhaps life’s very meaninglessness allows everyone to find their own meaning.
+
 In the philosophy section I write about things from my perspective, I do not intend to convince anyone of anything. Someone whose beliefs and experiences are similar to mine might find my content resonate within them while another person might find it sensless or false.   

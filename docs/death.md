@@ -1,7 +1,7 @@
 # Death
 
 ![Ophelia](img/Ophelia.webp)
-<center> Ophelia by John Everett Millais, 1851-1852, via ArtUK </center>
+<center> Ophelia by John Everett Millais, 1851-1852 </center>
 
 <br>
 

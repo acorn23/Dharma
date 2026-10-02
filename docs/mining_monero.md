@@ -8,8 +8,15 @@ I left my rig running while regularly checking the miner and pool statistics. I 
 
 As someone who had never trusted the financial system, discovering the true nature of cryptocurrency was a special moment.
 
-I am still mining, partly to help secure the network and partly to hopefully reserve some Monero for myself.
+I mined for over an year, partly to help secure the network and partly to hopefully reserve some Monero for myself.
+
+However the cryptocurrency does not fancy me like it used to. It burns electricity to produce nothing—no food, no shelter, no warmth. What remains is a ledger that must be fed still more energy just to persist. 
+
+While I find it more appealing than the traditional centralised financial system, it is no better than the worthless paper promises. Not to mention most of today's money exists as digital data.
+
+True wealth is energy captured in physical form—human effort stored across time, transformed into something that can be traded for something else.
+
+Experience seems to be the best way to learn about something.
 
 Learn more about Monero in the [Resources](resources.md) section.
 
-Experience seems to be the best way to learn about something.

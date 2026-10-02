@@ -14,12 +14,12 @@ nav:
       - Death: death.md
   - Science:
       - Space: space.md
-  - AI:
-      - AI Governing Humans: ai.md 
+  - The surveillance apparatus:
+      - Technocratic State Of Terror: technocracy.md
+      - AI Enabled Mass Surveillance: ai.md 
   - Geopolitics:
-      - Global:
-          - Ukraine War: ukraine.md
-          - Gaza Genocide: gaza.md
+      - Ukraine War: ukraine.md
+      - Gaza Genocide: gaza.md
       - India:
           - Withering Democracy: autocracy.md
           - Financial System: finance.md
@@ -33,13 +33,18 @@ theme:
   palette:
     primary: deep purple
   logo: img/atom.png
+  favicon: img/atom.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - header.autohide
     - navigation.footer
+    - search.suggest
+
 plugins:
   - blog
+  - tags
+  - search
 markdown_extensions:
   - attr_list
   - md_in_html

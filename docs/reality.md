@@ -4,7 +4,7 @@
 ![Flammarion_engraving](img/Flammarion_engraving.webp)
 
 
-Life began on planet Earth by accident. A single protozoan divided, multiplied, and eventually evolved into many different forms of life. A vast majority of the species have already gone extent, some are on the verge and those we see around us are still undergoing evolution.
+Life began on planet Earth by accident. A single protozoan divided, multiplied, and eventually evolved into many different forms of life. A vast majority of the species have already gone extinct, some are on the verge and those we see around us are still undergoing evolution.
 
 All life forms share a common purpose i.e. to survive long enough to be able to reproduce and give birth to offsprings that can do the same and ensure the continuity of their sepcies.
 All living organisms are equal and no species not even human beings are more significant than another. This may seem repulsive at first because the society we grow and live in is an artificial construct very opposite to how nature intended us to live.
