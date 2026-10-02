@@ -1,31 +1,36 @@
-.align-left {
-  float: left;
+.align-left,
+.align-right {
+  display: block;
   width: 50%;
   max-width: 600px;
   height: auto;
+  box-sizing: border-box;
+}
+
+/* Image on the left, text on the right */
+.align-left {
+  float: left;
   margin: 0 1.5rem 1rem 0;
 }
 
+/* Image on the right, text on the left */
 .align-right {
   float: right;
-  width: 50%;
-  max-width: 600px;
-  height: auto;
   margin: 0 0 1rem 1.5rem;
 }
 
+/* Clear the float after the image/text section */
 .clear {
   clear: both;
 }
 
-/* Prevent the image from becoming too large on narrow screens */
+/* Phones and small screens */
 @media screen and (max-width: 768px) {
   .align-left,
   .align-right {
     float: none;
-    display: block;
-    width: 100%;
-    max-width: 100%;
+    width: 50%;
+    max-width: 50%;
     margin: 0 auto 1rem;
   }
 }
