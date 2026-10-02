@@ -1,9 +1,6 @@
 
 > At present, things are still quite different; at present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
-
 >~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
-
-<br>
 
 ![Jester](img/Jan_Matejko_Stanczyk.webp)
 <center>Stańczyk by Jan Matejko</center>
@@ -26,7 +23,6 @@ A belief held by someone refers to a commitement made towards cetain view of rea
 ### Religion and God
 
 Believing that a powerful being is always looking after you makes it easier to live life for many people especially when reality has been really unforgiving to them.
-It also promotes the continuity of species by giving meaning to life. It makes life worth living.
 
 Escapes are important part of life, I personally love movies not just for the escapism they offer into other worlds but I have also formed a deep appreciation for cinematography itself.
 
@@ -34,9 +30,11 @@ But when the movie ends you are back into the real world. The distinction betwee
 
 Religion is like a movie too, fictious stories that have no underlying proof and reasoning.
 
-Most religions have good teachings and guides how to live a proper life which I appreciate. What I do not appreciate however is the submission of individuals to their religion, undermining their reasoning and curiosity and the very distortion in perceiving the real truth.
+I do not consider myself a nihilist based on my understanding of the term, but certain aspects of nihilism resonate with me. The tragedy of being an atheist from this perspective is understanding how meaningful religion makes one's life for the people living in blissful ignorance.
 
-Religious individuals have a right to practice but I believe it is also important to open their eyes to the modern science and stop ignoring scientific facts based on logic that contradict stories.
+If religions give life meaning, if they make life worth living then they in turn promote the continuity of the species.
+
+Therefore I believe that the only thing wrong with religions is the submission of individuals to their religion, undermining their reasoning and curiosity and the very distortion in perceiving the real truth.
 
 ![suffering](img/suffering.webp)
 
