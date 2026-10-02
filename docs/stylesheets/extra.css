@@ -1,14 +1,31 @@
-.align-right {
-  float: right;
-  margin: 0 0 1rem 1.5rem;
-}
-
 .align-left {
   float: left;
   width: 50%;
-  margin: 0 20px 10px 0;
+  max-width: 600px;
+  height: auto;
+  margin: 0 1.5rem 1rem 0;
+}
+
+.align-right {
+  float: right;
+  width: 50%;
+  max-width: 600px;
+  height: auto;
+  margin: 0 0 1rem 1.5rem;
 }
 
 .clear {
   clear: both;
+}
+
+/* Prevent the image from becoming too large on narrow screens */
+@media screen and (max-width: 768px) {
+  .align-left,
+  .align-right {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto 1rem;
+  }
 }
