@@ -36,6 +36,15 @@ If a soldier of one country murders an enemy soldier from another (to defend his
 The ability of the Governments to sustain entire armies of brainwashed patriotic youths is commendable.
 
 
+### Astrology
+
+It is the study of how the positions and movements of celestial bodies, like stars and planets, influence human affairs and natural events.
+
+This is so outright brain dead that I don't even feel like talking about it, but its the same story here, future is inpredictable and scary so give people false reassurances and make money.
+
+It was worth mentioning due to the considerable share of population expressing their beliefs in it and how often I keep coming across Astrologer ads, zodiac signs and horoscopes.
+
+
 ### Afterlife
 
 [Death](death.md) is scary but beliefs that one day, people can transcend to a better place and reunite with the people they lost eases suffering and dealing with grief caused from loosing a loved one or the fear of death itself.
