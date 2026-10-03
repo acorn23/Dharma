@@ -1,36 +1,39 @@
-.align-left,
-.align-right {
+/* Images aligned beside text */
+img.align-left,
+img.align-right {
   display: block;
-  width: 50%;
+  width: 35%;
   max-width: 600px;
   height: auto;
   box-sizing: border-box;
 }
 
-/* Image on the left, text on the right */
-.align-left {
+/* Image on the left */
+img.align-left {
   float: left;
   margin: 0 1.5rem 1rem 0;
 }
 
-/* Image on the right, text on the left */
-.align-right {
+/* Image on the right */
+img.align-right {
   float: right;
   margin: 0 0 1rem 1.5rem;
 }
 
-/* Clear the float after the image/text section */
+/* Clear floats */
 .clear {
   clear: both;
 }
 
-/* Phones and small screens */
+/* Phones */
 @media screen and (max-width: 768px) {
-  .align-left,
-  .align-right {
+  img.align-left,
+  img.align-right {
     float: none;
-    width: 50%;
-    max-width: 50%;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
     margin: 0 auto 1rem;
   }
 }
