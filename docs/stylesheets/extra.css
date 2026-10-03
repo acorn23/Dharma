@@ -1,38 +1,28 @@
-/* Images aligned beside text */
-img.align-left,
-img.align-right {
-  display: block;
+/* Desktop image alignment */
+img[align="left"],
+img[align="right"] {
   width: 35%;
   max-width: 600px;
   height: auto;
   box-sizing: border-box;
 }
 
-/* Image on the left */
-img.align-left {
-  float: left;
+img[align="left"] {
   margin: 0 1.5rem 1rem 0;
 }
 
-/* Image on the right */
-img.align-right {
-  float: right;
+img[align="right"] {
   margin: 0 0 1rem 1.5rem;
 }
 
-/* Clear floats */
-.clear {
-  clear: both;
-}
-
-/* Phones and small screens */
+/* Phone layout */
 @media screen and (max-width: 768px) {
-  img.align-left,
-  img.align-right {
-    float: none;
+  img[align="left"],
+  img[align="right"] {
     display: block;
-    width: 40% !important;
-    max-width: 220px;
+    float: none;
+    width: 60% !important;
+    max-width: 300px !important;
     height: auto;
     margin: 0 auto 1rem;
   }

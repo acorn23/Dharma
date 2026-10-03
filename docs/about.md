@@ -17,3 +17,7 @@ For any questions regarding the integrity of information here, discussion of an 
 ```
 42eYyUADxDTNCAQow1tG1BS7s8pgaeioxXjrMkkbjhzUeAqK7sCQPr4Co9t1ZcaTiChc6st6MtRaMcVc91KrtLuVLqj76Dr	
 ```
+
+<br>
+
+Made with [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/)
