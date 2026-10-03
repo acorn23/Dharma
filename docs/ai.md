@@ -13,11 +13,15 @@ India is the most CCTV surveilled country, second only to China and I have known
 Reading a newspaper article this morning opened my eyes over how negligent I have really been to the recent developments in mass surveillance.
 <br>
 
-![IBM's 1979 training quote](img/ai.webp){ .align-left }
+![IBM's 1979 training quote](img/ai.webp){ align=left }
+
+
+
 
 > The 1979 IBM Training Manual Excerpt is a guideline from IBM's internal data processing training materials that explicitly warns against allowing computers to make management decisions. The passage underscores mid-20th-century corporate reservations about delegating executive authority to automated systems, emphasizing ethical and accountability limits in early computing applications within business operations.
 
-<div class="clear"></div>
+<br>
+<br>
 
 The article was about how an AI system in Bengaluru had mistaken a guitar case for pillion rider travelling without a helmet and issued a fine to the scooter rider. A senior police officer admitted that it was indeed a false flag and tends to happen occasionally as the system has not reached a 100% accuracy. Well if its not accurate, the system should not be given the power to automatically issue fines to normal people without being approved by humans in the first place.
 
