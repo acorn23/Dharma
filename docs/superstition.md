@@ -3,6 +3,8 @@
 <br>
 >~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
 
+<br>
+
 ![Jester](img/Jan_Matejko_Stanczyk.webp)
 <center>Stańczyk by Jan Matejko</center>
 <br>
@@ -13,9 +15,26 @@ The above painting called _**Stańczyk**_ by Jan Matejko depicts a court jester 
 
 We are all alone in the vastness of our observable universe. We are not special and won't even leave a lasting legacy after completing our short human life. There's a saying that people die twice - once when they die and a second time when they will be remembered for a last time. It's natural to feel scared and hopeless in the grand scheme of things.
 
-## Belief in Various Superstitions
+## Various Beliefs
 
 A belief held by someone refers to a commitement made towards cetain view of reality. Beliefs and actions do not always align.
+
+### Patriotism
+
+Patriotism refers to the love and devotion one feels towards their country.
+
+Patriotism has always been a bullshit concept to me. 
+
+When I was a kid I had been asked by many if I watched Cricket matches to which my usual reply was, 'No'. Then I would be perplexed by their surprised reaction and I never understood for the longest time, why everyone got so worked up when it was a IND vs PAK match.
+
+In first grade back in 2011 our homeroom teacher told us about the bravery of a recently fallen soldier whose parents received some honour called  Param Vir Chakra. She even put a picture of him and the medal thing on the soft board at the back of the class and I just found it all funny at best.
+
+The school assemblies promoted it, the sports promoted it and not to mention the many ads and propaganda that glorify the millitary. 
+
+If a soldier of one country murders an enemy soldier from another (to defend his country of course) then its not considered murder and the deceased soldiers on both sides are glorified to have sacrificed thier lives for their country whereas those who manage to make it back alive are showered with medals and praise.
+
+The ability of the Governments to sustain entire armies of brainwashed patriotic youths is commendable.
+
 
 ### Afterlife
 
