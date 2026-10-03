@@ -31,8 +31,8 @@ img.align-right {
   img.align-right {
     float: none;
     display: block;
-    width: 100%;
-    max-width: 100%;
+    width: 30%;
+    max-width: 50%;
     height: auto;
     margin: 0 auto 1rem;
   }
