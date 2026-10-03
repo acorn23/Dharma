@@ -1,7 +1,7 @@
 Beauty is something that gives us pleasure and we exercise our control over what gives us pleasure.
 It is subjective and cannot be quantified.
 
-Most people![2b](img/2b.webp){ align=right width="300" } can collectively agree over the beauty of nature. Nature may appear to be random but it is composed of symmetrical structures. We are drawn to the symmetry. The Golden Ratio and Fibonacci Sequence can be found everywhere in nature. Some examples are the pattern of leaves on a stem, the parts of a pineapple, the flowering of artichoke, the uncurling of a fern and the arrangement of a pine cone. The Fibonacci numbers are also found in the family tree of honeybees.
+Most people![2b](img/2b.webp){ align=right width="100" } can collectively agree over the beauty of nature. Nature may appear to be random but it is composed of symmetrical structures. We are drawn to the symmetry. The Golden Ratio and Fibonacci Sequence can be found everywhere in nature. Some examples are the pattern of leaves on a stem, the parts of a pineapple, the flowering of artichoke, the uncurling of a fern and the arrangement of a pine cone. The Fibonacci numbers are also found in the family tree of honeybees.
 
 If something is asymmetrical it cannot be beautiful by definition.
 
