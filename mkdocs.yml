@@ -1,10 +1,13 @@
 site_name: Dharma
 site_url: https://acorn23.github.io/dharma/
+
 nav:
   - Home: index.md
+
   - General:
       - Dead Internet Theory: dead_internet_theory.md
       - Crypto currency: mining_monero.md
+
   - Philosophy:
       - Introduction: introduction.md
       - Understanding Reality: reality.md
@@ -13,28 +16,50 @@ nav:
       - Ownership: ownership.md
       - Beauty: beauty.md
       - Death: death.md
+
   - Science:
       - Space: space.md
+
   - The surveillance apparatus:
       - Technocratic State Of Terror: technocracy.md
-      - AI Enabled Mass Surveillance: ai.md 
+      - AI Enabled Mass Surveillance: ai.md
+
   - Geopolitics:
       - Ukraine War: ukraine.md
       - Gaza Genocide: gaza.md
       - India:
           - Withering Democracy: autocracy.md
           - Financial System: finance.md
+
   - Archive:
-      - The Sacrificial Machine—How Private Finance Turned War into Permanent Profit: war.md 
+      - The Sacrificial Machine—How Private Finance Turned War into Permanent Profit: war.md
+
   - Resources: resources.md
   - About: about.md
 
 theme:
   name: material
+
   palette:
-    primary: deep purple
+    # Light mode
+    - scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   logo: img/atom.png
   favicon: img/atom.png
+
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -46,9 +71,14 @@ plugins:
   - blog
   - tags
   - search
+
 markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.tilde
+
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  generator: false
