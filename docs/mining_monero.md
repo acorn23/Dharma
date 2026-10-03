@@ -1,4 +1,4 @@
-I became interested in cryptocurrency after deciding to research it. Like many new things, it initially felt confusing and strange, so I decided to start mining and learn along the way.
+I became interested in cryptocurrency but like many new things, it initially felt confusing and strange, so I decided to start mining and learn along the way.
 
 I chose [Monero](https://www.getmonero.org/) because its RandomX algorithm can be mined using a consumer CPU. I had also heard good things about Monero in OPSEC communities.
 
