@@ -25,14 +25,14 @@ img.align-right {
   clear: both;
 }
 
-/* Phones */
+/* Phones and small screens */
 @media screen and (max-width: 768px) {
   img.align-left,
   img.align-right {
     float: none;
     display: block;
-    width: 30%;
-    max-width: 50%;
+    width: 40% !important;
+    max-width: 220px;
     height: auto;
     margin: 0 auto 1rem;
   }
