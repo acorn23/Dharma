@@ -1,29 +1,64 @@
-/* Desktop image alignment */
-img[align="left"],
-img[align="right"] {
-  width: 35%;
-  max-width: 600px;
+/* =========================================================
+   Material for MkDocs — Responsive aligned images
+   ========================================================= */
+
+/* ---------------------------------------------------------
+   Desktop / tablet
+   --------------------------------------------------------- */
+
+.md-typeset img[align="left"],
+.md-typeset img[align="right"] {
+  width: auto;
+  max-width: 35%;
   height: auto;
   box-sizing: border-box;
 }
 
-img[align="left"] {
+/* Space between a left-aligned image and the text */
+.md-typeset img[align="left"] {
   margin: 0 1.5rem 1rem 0;
 }
 
-img[align="right"] {
+/* Space between a right-aligned image and the text */
+.md-typeset img[align="right"] {
   margin: 0 0 1rem 1.5rem;
 }
 
-/* Phone layout */
+
+/* ---------------------------------------------------------
+   Mobile
+   --------------------------------------------------------- */
+
 @media screen and (max-width: 768px) {
-  img[align="left"],
-  img[align="right"] {
+
+  /*
+   * Material for MkDocs normally allows an aligned image
+   * to expand to the available viewport width when there
+   * isn't enough room for text beside it.
+   *
+   * Override that behavior and stack the image instead.
+   */
+
+  .md-typeset img[align="left"],
+  .md-typeset img[align="right"] {
     display: block;
-    float: none;
-    width: 60% !important;
-    max-width: 300px !important;
-    height: auto;
-    margin: 0 auto 1rem;
+
+    /* Remove the desktop float */
+    float: none !important;
+
+    /*
+     * Keep the image at its natural size where possible,
+     * but never let it exceed 60% of the viewport.
+     */
+    width: auto !important;
+    max-width: 60vw !important;
+
+    /* Preserve the image's aspect ratio */
+    height: auto !important;
+
+    /* Center the image */
+    margin: 0 auto 1rem auto !important;
+
+    box-sizing: border-box;
   }
 }
