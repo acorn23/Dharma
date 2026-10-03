@@ -1,6 +1,6 @@
-/* =========================================================
-   Material for MkDocs — Responsive aligned images
-   ========================================================= */
+ /* =========================================================
+    Material for MkDocs — Responsive aligned images
+    ========================================================= */
 
 /* ---------------------------------------------------------
    Desktop / tablet
@@ -14,13 +14,15 @@
   box-sizing: border-box;
 }
 
-/* Space between a left-aligned image and the text */
+/* Left-aligned image */
 .md-typeset img[align="left"] {
+  float: left;
   margin: 0 1.5rem 1rem 0;
 }
 
-/* Space between a right-aligned image and the text */
+/* Right-aligned image */
 .md-typeset img[align="right"] {
+  float: right;
   margin: 0 0 1rem 1.5rem;
 }
 
@@ -31,34 +33,36 @@
 
 @media screen and (max-width: 768px) {
 
-  /*
-   * Material for MkDocs normally allows an aligned image
-   * to expand to the available viewport width when there
-   * isn't enough room for text beside it.
-   *
-   * Override that behavior and stack the image instead.
-   */
-
   .md-typeset img[align="left"],
   .md-typeset img[align="right"] {
-    display: block;
-
-    /* Remove the desktop float */
-    float: none !important;
+    /*
+     * Keep the image floating so text remains beside it.
+     */
+    float: right !important;
 
     /*
-     * Keep the image at its natural size where possible,
-     * but never let it exceed 60% of the viewport.
+     * Let the image keep its natural dimensions,
+     * but prevent it from becoming too large.
      */
     width: auto !important;
-    max-width: 60vw !important;
+    max-width: 40vw !important;
 
-    /* Preserve the image's aspect ratio */
     height: auto !important;
 
-    /* Center the image */
-    margin: 0 auto 1rem auto !important;
+    /*
+     * Keep some separation from the surrounding text.
+     */
+    margin: 0 0 1rem 1rem !important;
 
     box-sizing: border-box;
+  }
+
+  /*
+   * If the image is explicitly aligned left in Markdown,
+   * keep it on the left on mobile.
+   */
+  .md-typeset img[align="left"] {
+    float: left !important;
+    margin: 0 1rem 1rem 0 !important;
   }
 }
