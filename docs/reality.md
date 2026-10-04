@@ -2,13 +2,14 @@
 
 Reality is the totality of everything that exists, independently of whether anyone perceives, understands, or believes in it. 
 
+<br>
+
 ![Flammarion_engraving](img/Flammarion_engraving.webp)
 <center>Flammarion Engraving (1888)</center>
 
 <center>It depicts a pilgrim-like figure who passes through an opening in the firmament to discover a realm of circling clouds, fires, and suns beyond the sky. </center>
 
 <br>
-
 ## Origin of Life
 
 Life began on planet Earth by accident. A single protozoan divided, multiplied, and eventually evolved into many different forms of life. A vast majority of the species have already gone extinct, some are on the verge and those we see around us are still undergoing evolution.
