@@ -19,6 +19,8 @@ We are all alone in the vastness of our observable universe. We are not special 
 
 A belief held by someone refers to a commitement made towards cetain view of reality. Beliefs and actions do not always align.
 
+The conformation bias as discussed in [reality](reality.md) section plays a major role in reinforcing one's beliefs. Most people perceive only their religion to be right or the political party they support and so on.
+
 ### Patriotism
 
 Patriotism refers to the love and devotion one feels towards their country.
@@ -40,7 +42,7 @@ The ability of the Governments to sustain entire armies of brainwashed patriotic
 
 It is the study of how the positions and movements of celestial bodies, like stars and planets, influence human affairs and natural events.
 
-This is so outright brain dead that I don't even feel like talking about it, but its the same story here, future is inpredictable and scary so give people false reassurances and make money.
+This is so outright brain dead that I don't even feel like talking about it, but its the same story here, future is unpredictable and scary so give people false reassurances and make money.
 
 It was worth mentioning due to the considerable share of population expressing their beliefs in it and how often I keep coming across Astrologer ads, zodiac signs and horoscopes.
 
