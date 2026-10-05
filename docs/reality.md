@@ -84,7 +84,7 @@ Human reasoning is flawed. We have fragmented memories which we tend to fill in 
 <br>
 Memories are not reality but a reconstructed mental representation of the past which makes them more unreliable than we realise.
 
-Memories are not linearly stored like a video refording in the brain. When you remember something, the brain attempts to piece tofether the existing information, experiences, emotions and assumptions to reconstruct the memory.
+Memories are not linearly stored like a video recording in the brain. When you remember something, the brain attempts to piece together the existing information, experiences, emotions and assumptions to reconstruct the memory.
 
 Because of this the memories can be incomplete or altered while still feeling genuine.
 

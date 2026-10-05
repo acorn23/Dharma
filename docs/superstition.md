@@ -15,28 +15,52 @@ The above painting called _**Stańczyk**_ by Jan Matejko depicts a court jester 
 
 We are all alone in the vastness of our observable universe. We are not special and won't even leave a lasting legacy after completing our short human life. There's a saying that people die twice - once when they die and a second time when they will be remembered for a last time. It's natural to feel scared and hopeless in the grand scheme of things.
 
-## Various Beliefs
+## Beliefs
 
 A belief held by someone refers to a commitement made towards cetain view of reality. Beliefs and actions do not always align.
 
 The conformation bias as discussed in [reality](reality.md) section plays a major role in reinforcing one's beliefs. Most people perceive only their religion to be right or the political party they support and so on.
 
+### When Faith shapes Reasoning
+
+#### Copernicus
+During the 16th century, the geocentric model of the Solar System which placed Earth at it's center was most widely accepted until Copernicus made observations that proved that Sun is the actual center of our Solar System— the Heliocentric model was born.
+
+Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective. In reality the planets are irregulary shaped ellipsoids and revolve in eleptical orbits. 
+The people of the time did not want to let go of the geocentric model, it just felt too beautiful to let go of.
+<br>
+#### Galileo
+"Why would there be things too far away and too dim for us to see?” must be among the most beautiful, articulate and poetic ways a human consciousness has sum up human experience.
+
+Anyway these were  the words of Galileo Galilei when he observed things no one had ever before such as many previously invisible stars in the Milky Way, the phases of Venus, and moons orbiting Jupiter.
+
+His religious beliefs helped shape how he interpreted this. Galileo was a Catholic and believed that God had created both:
+
+- the natural world, which could be studied through observation and mathematics; and
+- Scripture, which taught religious and moral truths.
+
+He argued that God gave humans senses and reason, so using them to investigate nature could not be contrary to faith. In a letter to the Grand Duchess Christina, he wrote that God had given people “senses, reason, and intellect” and did not intend them to abandon their use in studying physical reality.
+
+Both scientists show that beliefs can shape reasoning in complex ways. Their religious ideas sometimes influenced the assumptions they made, but they also motivated their search for order and truth.
+
+## Various prominent beliefs :
 ### Patriotism
 
 Patriotism refers to the love and devotion one feels towards their country.
 
-Patriotism has always been a bullshit concept to me. 
+It has always been a bullshit concept to me. 
 
 When I was a kid I had been asked by many if I watched Cricket matches to which my usual reply was, 'No'. Then I would be perplexed by their surprised reaction and I never understood for the longest time, why everyone got so worked up when it was a IND vs PAK match.
 
 In first grade back in 2011 our homeroom teacher told us about the bravery of a recently fallen soldier whose parents received some honour called  Param Vir Chakra. She even put a picture of him and the medal thing on the soft board at the back of the class and I just found it all funny at best.
 
-The school assemblies promoted it, the sports promoted it and not to mention the many ads and propaganda that glorify the millitary. 
+While I was still in school, A.P.J. Abdul Kalam's name was thrown around a lot. He is hailed as the 'Missile Man of India'. It's baffling to think that so many people look up to him for his contributions in the development of weapons of mass destruction whose purpose is to obliterate as many people as possible.
 
 If a soldier of one country murders an enemy soldier from another (to defend his country of course) then its not considered murder and the deceased soldiers on both sides are glorified to have sacrificed thier lives for their country whereas those who manage to make it back alive are showered with medals and praise.
 
-The ability of the Governments to sustain entire armies of brainwashed patriotic youths is commendable.
+The school assemblies promoted patriotism, the sports promoted it and not to mention the many ads and propaganda that glorify the millitary. 
 
+The ability of the Governments to sustain entire armies of brainwashed patriotic youths is commendable.
 
 ### Astrology
 
