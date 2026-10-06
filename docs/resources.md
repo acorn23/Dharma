@@ -12,6 +12,7 @@
 - [The Righteous Mind](<resources/books/The-Righteous-Mind.pdf>)
 
 ## Science and critical thinking
+- [Homo Deus: A brief Hostory of Tomorrow — YUval Noah Harari](<resources/books/homo_deus_a_brief_history_of_tomorrow_pdf.pdf>)
 - [The Demon-Haunted World — Carl Sagan](<resources/books/Carl Sagan - The Demon Haunted World.pdf>)
 - [Higgs in a Box](resources/books/higgs_in_a_box.pdf)
 
