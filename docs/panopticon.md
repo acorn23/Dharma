@@ -1,7 +1,7 @@
 # You are a Commodity
-<br>
 
-> ### _**I was born into an age where I <span style="color:red"> do not own my soul. </span>**_
+### _**I was born into an age where I <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">do not own my soul.</span>**_
+
 
 ![Big brother is watfhing](img/yesterdays_sorrow.gif)
 
@@ -19,7 +19,7 @@ Throughout the relatively short human history, those in power have always tried 
 <br>
 The late 1600s marked a decline in religion and in Platonic and Aristotelian views, while science and reason were embraced as forces that would bring great advancement to humankind which could not be further from the truth. But they have always been used to serve the age-old need of those in power to control the herd.
 
-## Postmodernism
+### Postmodernism
 
 The aftermath of immense death and destruction at the end of two World Wars followed by the Great Depression led many to rethink the true nature of science. As the belief kept withering, emerged a new movement called Postmodernism which critiques science by arguing that it is just another system of knowledge that lacks true objectivity, suggesting that science is influenced by social and political contexts rather than being a purely objective pursuit of truth.
 
@@ -41,7 +41,9 @@ Its been 81 years since their inception and while they enjoyed a period of domin
 
 *Those with this weapon peered above kings, rising higher than emperors, while holding entire continents in the hollow of their hand.*
 
-# Death of Individualism
+## Death of Individualism
+
+![Glitched Lain](img/lain.webp){width=50%}
 
 Sonder is a neologism coined by John Koenig on his website [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com) defined as;  
 
@@ -70,6 +72,8 @@ Privacy, as Klitou puts it, is a means for protecting liberty. In his book, Priv
 The value of privacy derives from its importance in our ability to perform, preserve and protect our humanity on an independent and societal basis.
 
 ## Digitilization of Society
+
+![A Digital World](img/digital.webp){width=60%}
 
 Every aspect of our lives has been digitized, The Information Age sparked a rebirth in how society operates on a fundamental level. However, this renewal is mandatory, technological literacy and connection is essential for socio-economic survival and success in the modern age. 
 
@@ -172,9 +176,15 @@ Manipulation goes beyond advertising, the tools of psychological profiling have 
 
 A commonly discussed unintended consequence formed by the societal reins of social media in combination with their core methodology of influence is the exacerbation of political polarization and extremism. This growth in polarization is largely attributed to social media fostering “echo chambers”. An echo chamber is an environment in which people interact only with like-minded individuals to form a shared narrative. Social media contributes to echo chambers via their algorithms' inherent tendency to promote content coinciding with an individual's preferences (Cinelli). This algorithmic content promotion forms a confirmation bias feedback loop that will eventually surround the user solely in information that reinforces their worldview, regardless of credibility. The lack of opposing information leads to the belief that one's views are concrete and commonsensical, damaging the chance for debate and consensus and fueling ideological polarization.
 
+## Parting Thoughts
+
+This essay is a result of incorporating <span style="color:#d4b06a;">**extreme**</span> privacy practices in my daily life for the past 3 years and the things I learned in my journey.
+
+Today privacy is an illusion but I strive to leave as little digital footprint behind as possible, it does not get any easier and burnouts keep becoming more frequent.
+
+It pains me to see my friends and family trapped in the simulacra and surveillance capitalism economy of today like everyone else and I have been largely unsuccessful in making anyone understand the true nature of today's reality. No one else sees this invisible prison we spend our lives in.
 
 ## References
-
 1. [Homo Deus by Yuval Noah Harari](resources/books/homo_deus_a_brief_history_of_tomorrow_pdf.pdf)
 2. [What Is Privacy?](https://privacyinternational.org/explainer/56/what-privacy)
 3. [The Age of Surveillance Capitalism by Zuboff](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
@@ -185,7 +195,11 @@ A commonly discussed unintended consequence formed by the societal reins of soci
 8. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.  
 9. “Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice, www.justice.gov/archive/ll/archive.htm
 10. Cinelli, Matteo, et al. “The Echo Chamber Effect on Social Media.” Proceedings of the National Academy of Sciences, vol. 118, no. 9, 2021, doi:10.1073/pnas.2023301118.
+11. Wojcicki, Susan. “Making Ads More Interesting.” Official Google Blog, 11 Mar. 2009, https://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html.
+12. Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016, www.businessinsider.com/snowden-leaks-timeline-2016-9.
+13. Singer, Natasha. “How Google Took over the Classroom.” The New York Times, The New York Times, 13 May 2017, www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html.
+14. Romm, Tony. “Amazon, Facebook, Other Tech Giants Spent Roughly $65 Million to Lobby Washington Last Year.” The Washington Post, WP Company, 22 Jan. 2021, www.washingtonpost.com/technology/2021/01/22/amazon-facebook-google-lobbying-2020/.
 
 <br>
 
-><span style="color:yellow">**Section Under Construction. This is my most ambitious writing project so far and will require some time.**</span>
+><span style="color:yellow">**Section Under Active Construction. This is my most ambitious writing project so far and will require some time.**</span>
