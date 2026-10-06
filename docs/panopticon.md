@@ -1,4 +1,5 @@
 # You are a Commodity
+<br>
 
 > ### _**I was born into an age where I <span style="color:red"> do not own my soul. </span>**_
 
@@ -27,7 +28,6 @@ The postmodernism movement is meaningless because it adds nothing to analytical 
 Science cannot be morally judged for it simply waits to be used by humans who decide how to use it.
 
  >_“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”_
-
  <div align="right">~ Albert Einstein</div>
 
 This shows that humans would wage war even without science, for conflict is rooted in human nature itself.
@@ -41,8 +41,7 @@ Its been 81 years since their inception and while they enjoyed a period of domin
 
 *Those with this weapon peered above kings, rising higher than emperors, while holding entire continents in the hollow of their hand.*
 
-
-## Death of Individualism
+# Death of Individualism
 
 Sonder is a neologism coined by John Koenig on his website [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com) defined as;  
 
@@ -151,7 +150,7 @@ An extremely powerful example of this surveillance tenet is social media website
 
 ### Addiction
 
-“I felt so lonely… I could not sleep well without sharing or connecting to others,” a Chinese girl recalled. “Emptiness,” an Argentine boy moaned. “Emptiness overwhelms me.” A Ugandan teenager muttered, “I felt like there was a problem with me,” and an American college student whimpered, “I went into absolute panic mode.” These are but a few of the lamentations plucked from one thousand student participants in an international study of media use that spanned ten countries and five continents. They had been asked to abstain from all digital media for a mere twenty-four hours, and the experience released a planet-wide gnashing of teeth and tearing of flesh that even the study’s directors found disquieting.(10)
+“I felt so lonely… I could not sleep well without sharing or connecting to others,” a Chinese girl recalled. “Emptiness,” an Argentine boy moaned. “Emptiness overwhelms me.” A Ugandan teenager muttered, “I felt like there was a problem with me,” and an American college student whimpered, “I went into absolute panic mode.” These are but a few of the lamentations plucked from one thousand student participants in an international study of media use that spanned ten countries and five continents. They had been asked to abstain from all digital media for a mere twenty-four hours, and the experience released a planet-wide gnashing of teeth and tearing of flesh that even the study’s directors found disquieting.(4)
 
 A 2018 report by the Global Web Index found that people spend an average of 2 hours 22 minutes on social media platforms per day ("Gwi Audience Insight"). This massive time apprehension by these platforms was cultivated with a stream of practices all aimed at one goal, addiction. The addictive nature of social media has become fairly common knowledge, and the ways in which these platforms keep people psychologically hooked is an extremely dense and guarded topic. However, understanding some of the general principles and techniques utilized by these platforms grants insight into how people’s psychology is being continually exploited by these corporations to maximize profits. Afterall, keeping people on the app longer means a better stream of psychological data points and a longer period to serve advertisements. Modesty is not a trait of capitalism, all sources of profit must be intensified, including the exhibition of the mind. 
 
@@ -176,18 +175,17 @@ A commonly discussed unintended consequence formed by the societal reins of soci
 
 ## References
 
-1. [Homo Deus by Yuval Noah Harari](resources/books/homo_deus_a_brief_history_of_tomorrow_pdf.pdf)
+1. [Homo Deus by Yuval Noah Harari](resources/homo_deus_a_brief_history_of_tomorrow_pdf.pdf)
 2. [What Is Privacy?](https://privacyinternational.org/explainer/56/what-privacy)
-3. [The Age of Surveillance Capitalism by Zuboff](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
-4. Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” Information Technology and Law Series, 2014, doi:10.1007/978-94-6265-026-8.
-5. Privacy-Invading Technologies and Privacy by Design by Klitou
-6. Abel, Jessica P., et al. “Social Media and the Fear of Missing out: Scale Development and Assessment.” Journal of Business & Economics Research (JBER), vol. 14, no. 1, 2016, pp. 33–44., doi:10.19030/jber.v14i1.9554.
-7. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.  
-8. “Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice, www.justice.gov/archive/ll/archive.htm
-9. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.
-10. [The world unplugged](https://icmpa.umd.edu/portfolio/the-world-unplugged/)
-  
+3. [The Age of Surveillance Capitalism by Zuboff](resources/books/Zuboff, Shoshana.The Age of Surveillance Capitalism.2019.pdf)
+4. [The world unplugged](https://icmpa.umd.edu/portfolio/the-world-unplugged/)
+  5. Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” Information Technology and Law Series, 2014, doi:10.1007/978-94-6265-026-8.
+6. Privacy-Invading Technologies and Privacy by Design by Klitou
+7. Abel, Jessica P., et al. “Social Media and the Fear of Missing out: Scale Development and Assessment.” Journal of Business & Economics Research (JBER), vol. 14, no. 1, 2016, pp. 33–44., doi:10.19030/jber.v14i1.9554.
+8. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.  
+9. “Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice, www.justice.gov/archive/ll/archive.htm
+10. Cinelli, Matteo, et al. “The Echo Chamber Effect on Social Media.” Proceedings of the National Academy of Sciences, vol. 118, no. 9, 2021, doi:10.1073/pnas.2023301118.
 
 <br>
 
-><span style="color:yellow">**Section Under Construction. This is my most ambitious writing projecr so far and will require some time.**</span>
+><span style="color:yellow">**Section Under Construction. This is my most ambitious writing project so far and will require some time.**</span>

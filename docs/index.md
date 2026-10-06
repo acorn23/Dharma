@@ -1,7 +1,8 @@
 # <center>DHARMA&nbsp;&nbsp;&nbsp;धर्म</center>
 
 <center><span style="font-size: 1.2em;"><b>The universal truth common to all individuals at all times.</b></span></center>
-
+<br>
+<center><span style="color:green">Featured Article: <a href="panopticon">You are a commodity</a></span></center>
 <br>
 
 ![Prayer](img/pray.webp)
