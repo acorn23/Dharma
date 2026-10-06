@@ -175,9 +175,9 @@ A commonly discussed unintended consequence formed by the societal reins of soci
 
 ## References
 
-1. [Homo Deus by Yuval Noah Harari](resources/homo_deus_a_brief_history_of_tomorrow_pdf.pdf)
+1. [Homo Deus by Yuval Noah Harari](resources/books/homo_deus_a_brief_history_of_tomorrow_pdf.pdf)
 2. [What Is Privacy?](https://privacyinternational.org/explainer/56/what-privacy)
-3. [The Age of Surveillance Capitalism by Zuboff](resources/books/Zuboff, Shoshana.The Age of Surveillance Capitalism.2019.pdf)
+3. [The Age of Surveillance Capitalism by Zuboff](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
 4. [The world unplugged](https://icmpa.umd.edu/portfolio/the-world-unplugged/)
   5. Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” Information Technology and Law Series, 2014, doi:10.1007/978-94-6265-026-8.
 6. Privacy-Invading Technologies and Privacy by Design by Klitou
