@@ -2,7 +2,6 @@
 
 ### _**I was born into an age where I <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">do not own my soul.</span>**_
 
-
 ![Big brother is watfhing](img/yesterdays_sorrow.gif)
 
 ## The Beginnings
