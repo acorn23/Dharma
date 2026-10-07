@@ -1,7 +1,7 @@
 # Gaza Genocide
 
 > "The very essence of childhood has been destroyed."  
-> —Just another UN report
+<p style="text-align:right;">—Just another UN report </p> 
 
 The [UN Resolution 2803](resources/books/resolution2803.pdf) passed by UN Council on 17 November, 2025 marked the death of United Nations in my eyes.
 
@@ -17,9 +17,12 @@ This week, Benjamin Netanyahu gave a speech in United Nations and showed a glimp
 
 I am at a point where the genocide taking place in the concentration camp that is Gaza has started to break my mind and hence I will not author any content regarding the horrors taking place right now for my own sanity but link important resources:
 
-><span style="color:red">**Warning:**</span> This archive contains <span style="color:red">**graphic footage**</span> of war crimes in Gaza and the West Bank — violence, death, and serious injury.<span style="color:yellow"> Viewer discretion is advised.</span>
+<span style="color:red;font-weight:700;">⚠ WARNING</span>
+>This archive contains <span style="color:red">**graphic footage**</span> of war crimes in Gaza and the West Bank — violence, death, and serious injury.
+><span style="color:yellow">Viewer discretion is advised.</span>
 
-[Archive Genocide](https://archivegenocide.com)
+[Visit Archive Genocide](https://archivegenocide.com) 
+
 
 ## Books
 

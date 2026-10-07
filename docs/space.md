@@ -1,6 +1,6 @@
 # Contemplating about Our place in the Universe
 
-![Stone](img/stone.jpg){ width="50%" }
+![Stone](img/stone.webp){ width="50%" }
 
 I found a stone with a see through hole formed from probably sitting in some water stream for a long time. It makes you appreciate the power of time. Each water molecule striking the stone had effectively negligible energy by itself but over a long period of time it managed to penetrate its way through the stone forming a smooth passage which appears to be as natural as the rest of the stone.
 

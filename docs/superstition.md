@@ -1,6 +1,8 @@
 
 > At present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
->~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
+
+
+<span> <p style="text-align:right;"> ~From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf) </p> </span>
 
 ![Jester](img/Jan_Matejko_Stanczyk.webp)
 <center>Stańczyk by Jan Matejko</center>
@@ -157,8 +159,11 @@ In India the RSS (a paramilitary organisation) which has one goal of converting 
 <br>
 
 >In the long run each of these great teachers of a purpose was vanquished by laughter, reason and nature: the brief tragedy always changed and returned into the eternal comedy of existence, and the 'waves of uncountable laughter'.
-~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
+
+<span> <p style="text-align:right;"> ~From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf) </p> </span>
+
 
 <br>
+<span style="color:#f59e0b;font-weight:700;">⚠ DISCLAIMER</span>
 
-> <span style="color:yellow">Disclaimer</span>: I do not intend to attack faiths and their believers. I am only looking at them from an objective perspective. 
+> <span style="color:#f59e0b">**I do not intend to attack faiths and their believers. I am only looking at them from an objective perspective.** </span>

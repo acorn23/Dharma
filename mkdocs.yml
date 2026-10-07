@@ -41,21 +41,9 @@ theme:
   name: material
 
   palette:
-    # Light mode
-    - scheme: default
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Dark mode
-    - scheme: slate
-      primary: deep purple
-      accent: deep purple
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: teal
+    accent: teal
 
   logo: img/atom.png
   favicon: img/atom.png
@@ -82,3 +70,6 @@ extra_css:
 
 extra:
   generator: false
+
+extra_javascript:
+  - javascripts/homepage.js

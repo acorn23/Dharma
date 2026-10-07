@@ -1,17 +1,20 @@
+---
+body_class: homepage
+---
+
 # <center>DHARMA&nbsp;&nbsp;&nbsp;धर्म</center>
 
 <center><span style="font-size: 1.2em;"><b>The universal truth common to all individuals at all times.</b></span></center>
-<br>
-<center><span style="color:green">Featured Article: <a href="panopticon">You are a commodity</a></span></center>
+
 <br>
 
-![Prayer](img/pray.webp)
+![Prayer](img/pray.png)
 
 <center>“You cannot be governed; you just didn’t realize it yet.”</center>
-<center>— <a href="http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/index.html">Nowhere Community</a></center>
+
+<div style="text-align:right;">— <a href="http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/index.html">Nowhere Community</a></div>
 
 <br>
-
 # Welcome to DHARMA
 This is my personal webpage in a small corner of the darknet. I haven been wanting to write a diary for the longest time but it always felt like a daunting task.
 This page exists to be a not so personal diary of me where I write about the things I learn and experience.
@@ -27,4 +30,4 @@ The search engine [Marginalia](https://marginalia-search.com) has been really a 
 
 And lastly I can talk about whatever the heck I want to freely without worrying about any censorship or judgement. Not relying on the state to enforce my right to speech but enforcing it myself.
 
->All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md) and in fact it is the purpose of my short human life, a dream that drives my will to live.
+>All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md#2-objective-reality) and in fact it is the purpose of my short human life, a dream that drives my will to live.
