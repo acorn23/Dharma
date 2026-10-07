@@ -43,7 +43,7 @@ Its been 81 years since their inception and while they enjoyed a period of domin
 
 ## Death of Individualism
 
-Sonder is a neologism coined by John Koenig on his website [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com) defined as;  
+Sonder is a neologism coined by John Koenig on his website defined as; (Koneig)
 
 *The realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness.*
  
@@ -89,6 +89,8 @@ You are not in control.
 ### Education: 
 
 Meta's whatsapp platform entered my life when I was still in 9th class. It was inevitable, the school promoted it for keeping up and it continues to haunt me even now in my final year of university. 
+
+Whatsapp lies about encryption and spies on all messages. It employs heavy meta data monitoring and represents one of the many data collection points in Meta's ecosystem.
 
 The pandamic forced me to use video conferencing tools for the first time and I still depend on these paltforms.
 
@@ -141,6 +143,8 @@ Google is a notoriously secretive company and its operations are not easily acce
 Google’s invention of targeted advertising paved the way to financial success, but it also laid the cornerstone of a more far-reaching development: the discovery and elaboration of surveillance capitalism. 
 
 Its business is characterized as an advertising model, and much has been written about Google’s automated auction methods and other aspects of its inventions in the field of online advertising.
+
+Today more or less everyone depends directly or indirectly on Google and it collects information about every single aspect of their lives.
 
 ## Invisible Chains
 
@@ -255,9 +259,9 @@ Perhaps the most valuable thing left to own is not a house, a car, iPhone, or a 
 
 *Your ability to say no.*
 
-Because if the machine owns the infrastructure through which you live, the corporations own the data through which you are understood, the algorithms determine what you see, and financial institutions control the assets beneath the system—
+Because if the machine owns the infrastructure through which you live, the corporations own the data through which you are understood, the algorithms determine what you see, and financial institutions control the assets beneath the system then...
 
-then what exactly remains that belongs to you?
+what exactly remains that belongs to you?
 ##### **You will own nothing.**
 
 ##### **And you will be happy <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">being owned.</span>**
@@ -275,17 +279,21 @@ then what exactly remains that belongs to you?
 7. [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://medium.com/world-economic-forum/welcome-to-2030-i-own-nothing-have-no-privacy-and-life-has-never-been-better-ee2eed62f710)
 8. [Amazons Digital Licensing Model](https://entertainment.blab.com/2026-06-22-amazons-digital-licensing-model-faces-legal-and-consumer-pushback-as-physical-media-remains-tangible-asset)
 9. [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
-  10. Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” Information Technology and Law Series, 2014, doi:10.1007/978-94-6265-026-8.
-11. Abel, Jessica P., et al. “Social Media and the Fear of Missing out: Scale Development and Assessment.” Journal of Business & Economics Research (JBER), vol. 14, no. 1, 2016, pp. 33–44., doi:10.19030/jber.v14i1.9554.
-12. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.  
-13. “Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice, www.justice.gov/archive/ll/archive.htm
-14. Cinelli, Matteo, et al. “The Echo Chamber Effect on Social Media.” Proceedings of the National Academy of Sciences, vol. 118, no. 9, 2021, doi:10.1073/pnas.2023301118.
-15. Wojcicki, Susan. “Making Ads More Interesting.” Official Google Blog, 11 Mar. 2009, https://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html.
-16. Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016, www.businessinsider.com/snowden-leaks-timeline-2016-9.
-17. Singer, Natasha. “How Google Took over the Classroom.” The New York Times, The New York Times, 13 May 2017, www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html.
-18. Romm, Tony. “Amazon, Facebook, Other Tech Giants Spent Roughly $65 Million to Lobby Washington Last Year.” The Washington Post, WP Company, 22 Jan. 2021, www.washingtonpost.com/technology/2021/01/22/amazon-facebook-google-lobbying-2020/.
-19. Gwi - Audience Insight Tools, Digital Analytics & Consumer Trends.” Globalwebindex, 2018, www.gwi.com/hubfs/Downloads/Social-H2-2018-report.pdf.
-
+10. [How G.M. Tricked Millions of Drivers Into Being Spied On (Including Me)](https://www.nytimes.com/2024/04/23/technology/general-motors-spying-driver-data-consent.html?unlocked_article_code=1.m00.gIzH.YdQ-yszzdzq6)
+11. [New Lawsuit Claims that Meta Can Read All the WhatsApp Users Messages](https://lawfold.com/whatsapp-lawsuit/)
+12. [The Meta Surveillance Empire: What WhatsApp, Facebook, Instagram & Threads Actually Know About You](https://snugg.social/en/blog/meta-surveillance-empire-whatsapp-facebook-instagram-threads-data-collection)
+13. [Koneig; The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com)
+14. [“Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice](www.justice.gov/archive/ll/archive.html)
+15. [Wojcicki, Susan. “Making Ads More Interesting.” Official Google Blog, 11 Mar. 2009](https://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html).
+16. [Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016](www.businessinsider.com/snowden-leaks-timeline-2016-9)
+17. [Singer, Natasha. “How Google Took over the Classroom.” The New York Times, The New York Times, 13 May 2017](www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html)
+18. [How AI Surveillance in Schools Violates Student Rights & Threatens Vulnerable Youth’s Safety](https://www.youthrights.org/how-ai-surveillance-in-schools-violates-student-rights-threatens-vulnerable-youths-safety/)
+19. [Romm, Tony. “Amazon, Facebook, Other Tech Giants Spent Roughly $65 Million to Lobby Washington Last Year.” The Washington Post, WP Company, 22 Jan. 2021](https://www.washingtonpost.com/technology/2021/01/22/amazon-facebook-google-lobbying-2020/)
+20. [Gwi - Audience Insight Tools, Digital Analytics & Consumer Trends.” *Globalwebindex*, 2018](https://www.gwi.com/hubfs/Downloads/Social-H2-2018-report.pdf)
+21. [Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” *Information Technology and Law Series*, 2014](https://doi.org/10.1007/978-94-6265-026-8)
+22. [Abel, Jessica P., et al. “Social Media and the Fear of Missing Out: Scale Development and Assessment.” *Journal of Business & Economics Research (JBER)*, vol. 14, no. 1, 2016, pp. 33–44.](https://doi.org/10.19030/jber.v14i1.9554)
+23. [Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” *International Journal of Environmental Research and Public Health*, vol. 16, no. 14, 2019, p. 2612.](https://doi.org/10.3390/ijerph16142612)
+24. [Cinelli, Matteo, et al. “The Echo Chamber Effect on Social Media.” *Proceedings of the National Academy of Sciences*, vol. 118, no. 9, 2021](https://doi.org/10.1073/pnas.2023301118)
 <br>
 
 ><span style="color:yellow">**Section Under Active Construction. This is my most ambitious writing project so far and will require some more time.**</span>

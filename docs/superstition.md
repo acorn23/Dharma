@@ -1,9 +1,6 @@
 
 > At present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
-<br>
 >~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
-
-<br>
 
 ![Jester](img/Jan_Matejko_Stanczyk.webp)
 <center>Stańczyk by Jan Matejko</center>
@@ -20,35 +17,12 @@ We are all alone in the vastness of our observable universe. We are not special 
 A belief held by someone refers to a commitement made towards cetain view of reality. Beliefs and actions do not always align.
 
 The conformation bias as discussed in [reality](reality.md) section plays a major role in reinforcing one's beliefs. Most people perceive only their religion to be right or the political party they support and so on.
-
-### When Faith shapes Reasoning
-
-#### Copernicus
-During the 16th century, the geocentric model of the Solar System which placed Earth at it's center was most widely accepted until Copernicus made observations that proved that Sun is the actual center of our Solar System— the Heliocentric model was born.
-
-Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective. In reality the planets are irregulary shaped ellipsoids and revolve in eleptical orbits. 
-The people of the time did not want to let go of the geocentric model, it just felt too beautiful to let go of.
-<br>
-#### Galileo
-"Why would there be things too far away and too dim for us to see?” must be among the most beautiful, articulate and poetic ways a human consciousness has sum up human experience.
-
-Anyway these were  the words of Galileo Galilei when he observed things no one had ever before such as many previously invisible stars in the Milky Way, the phases of Venus, and moons orbiting Jupiter.
-
-His religious beliefs helped shape how he interpreted this. Galileo was a Catholic and believed that God had created both:
-
-- the natural world, which could be studied through observation and mathematics; and
-- Scripture, which taught religious and moral truths.
-
-He argued that God gave humans senses and reason, so using them to investigate nature could not be contrary to faith. In a letter to the Grand Duchess Christina, he wrote that God had given people “senses, reason, and intellect” and did not intend them to abandon their use in studying physical reality.
-
-Both scientists show that beliefs can shape reasoning in complex ways. Their religious ideas sometimes influenced the assumptions they made, but they also motivated their search for order and truth.
-
 ## Various prominent beliefs :
 ### Patriotism
 
 Patriotism refers to the love and devotion one feels towards their country.
 
-It has always been a bullshit concept to me. 
+It has always been a bs concept to me. 
 
 When I was a kid I had been asked by many if I watched Cricket matches to which my usual reply was, 'No'. Then I would be perplexed by their surprised reaction and I never understood for the longest time, why everyone got so worked up when it was a IND vs PAK match.
 
@@ -68,8 +42,7 @@ It is the study of how the positions and movements of celestial bodies, like sta
 
 This is so outright brain dead that I don't even feel like talking about it, but its the same story here, future is unpredictable and scary so give people false reassurances and make money.
 
-It was worth mentioning due to the considerable share of population expressing their beliefs in it and how often I keep coming across Astrologer ads, zodiac signs and horoscopes.
-
+It was worth mentioning due to the considerable share of popualtion expressing their beliefs in it and how often I keep coming across Astrologer ads, zodiac signs and horoscopes.
 
 ### Afterlife
 
@@ -77,15 +50,15 @@ It was worth mentioning due to the considerable share of population expressing t
 
 ### Religion and God
 
-Believing that an all powerful, omnipresent being is always looking after you makes it easier to live life for many people especially when reality has been really unforgiving to them.
+Believing that a powerful being is always looking after you makes it easier to live life for many people especially when reality has been really unforgiving to them.
 
-I do not consider myself a nihilist based on my understanding of the term, but certain aspects of nihilism resonate with me. A consequence of being an atheist from this perspective is understanding how meaningful religion makes one's life for the people living in blissful ignorance.
+I do not consider myself a nihilist based on my understanding of the term, but certain aspects of nihilism resonate with me. The tragedy of being an atheist from this perspective is understanding how meaningful religion makes one's life for the people living in blissful ignorance.
 
 For people under suffering, uncertainty, grief, or fear. If religions give life meaning, if they make life worth living then they in turn promote the continuity of the species.
 
 Perhaps this is why they still persist even if they reduce intellectual rigidity or relaism; they pretend to answer psychological needs that raw reality often does not: meaning, consolation, identity, and social order.
 
-But this is the biggest problem with religions; the submission of individuals to their religion, undermining their reasoning and curiosity and the very **distortion** in perceiving the **real truth** because of an absence of any self-correcting mechanism.
+But this is the biggest problem with religions; the submission of individuals to their religion, undermining their reasoning and curiosity and the very distortion in perceiving the real truth because of an absence of any self-correcting mechanism.
 
 
 
@@ -126,6 +99,27 @@ And finally make it devoid of any self correcting mechanism.
 If I ask you to picture Jesus Christ you can easily do so but in reality every depiction of Jesus is fictional as there is absolutely no description of him in Bible nor were any portraits made during his life time.
 
 When enough people believe in something it influences their art and culture which in turn is perceived as reality not only to them but to others who are also a part of the culture.
+
+### When Faith shapes Reasoning
+
+#### Copernicus
+During the 16th century, the geocentric model of the Solar System which placed Earth at it's center was most widely accepted until Copernicus made observations that proved that Sun is the actual center of our Solar System— the Heliocentric model was born.
+
+Copernicus was a religious man who believed that the God is perfect so should be his creations. He assumed that the celestial bodies including Earth were perfect spheres that revolved around Sun in a circular path which is perfect from a geometrical perspective. In reality the planets are irregulary shaped ellipsoids and revolve in eleptical orbits. 
+The people of the time did not want to let go of the geocentric model, it just felt too beautiful to let go of.
+#### Galileo
+"Why would there be things too far away and too dim for us to see?” must be among the most beautiful, articulate and poetic ways a human consciousness has sum up human experience.
+
+Anyway these were  the words of Galileo Galilei when he observed things no one had ever before such as many previously invisible stars in the Milky Way, the phases of Venus, and moons orbiting Jupiter.
+
+His religious beliefs helped shape how he interpreted this. Galileo was a Catholic and believed that God had created both:
+
+- the natural world, which could be studied through observation and mathematics; and
+- Scripture, which taught religious and moral truths.
+
+He argued that God gave humans senses and reason, so using them to investigate nature could not be contrary to faith. In a letter to the Grand Duchess Christina, he wrote that God had given people “senses, reason, and intellect” and did not intend them to abandon their use in studying physical reality.
+
+Both scientists show that beliefs can shape reasoning in complex ways. Their religious ideas sometimes influenced the assumptions they made, but they also motivated their search for order and truth.
 ## Weaponisation Of Religions
 
 Religions are really good at trapping people in Plato's caves. Thus dividing them at the level of fundamental beliefs.
@@ -160,3 +154,11 @@ The US Government being a puppet of Israel has actively maintained how its a mor
 
 In India the RSS (a paramilitary organisation) which has one goal of converting India into a pure Hindu nation has actively maintained enemity and racism between majority hindu and the minority muslim population for a long time.
 
+<br>
+
+>In the long run each of these great teachers of a purpose was vanquished by laughter, reason and nature: the brief tragedy always changed and returned into the eternal comedy of existence, and the 'waves of uncountable laughter'.
+~ From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf)
+
+<br>
+
+> <span style="color:yellow">Disclaimer</span>: I do not intend to attack faiths and their believers. I am only looking at them from an objective perspective. 
