@@ -285,7 +285,7 @@ what exactly remains that belongs to you?
 13. [Koneig; The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com)
 14. [“Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice](https://www.justice.gov/archive/ll/archive.html)
 15. [Wojcicki, Susan. “Making Ads More Interesting.” Official Google Blog, 11 Mar. 2009](https://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html).
-16. [Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016](www.businessinsider.com/snowden-leaks-timeline-2016-9)
+16. [Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016](https://www.businessinsider.com/snowden-leaks-timeline-2016-9)
 17. [Singer, Natasha. “How Google Took over the Classroom.” The New York Times, The New York Times, 13 May 2017](https://www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html)
 18. [How AI Surveillance in Schools Violates Student Rights & Threatens Vulnerable Youth’s Safety](https://www.youthrights.org/how-ai-surveillance-in-schools-violates-student-rights-threatens-vulnerable-youths-safety/)
 19. [Romm, Tony. “Amazon, Facebook, Other Tech Giants Spent Roughly $65 Million to Lobby Washington Last Year.” The Washington Post, WP Company, 22 Jan. 2021](https://www.washingtonpost.com/technology/2021/01/22/amazon-facebook-google-lobbying-2020/)

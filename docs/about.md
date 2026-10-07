@@ -8,7 +8,7 @@ I’d rather share my thoughts and understanding with others than keep them to m
 
 ### Content
 
-All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md#2-objective-reality) and in fact it is the purpose of my short human life, a dream that drives my will to live.
+All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md) and in fact it is the purpose of my short human life, a dream that drives my will to live.
 
 ### The Name
 
