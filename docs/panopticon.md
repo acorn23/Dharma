@@ -2,6 +2,7 @@
 
 ### _**I was born into an age where I <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">do not own my soul.</span>**_
 
+
 ![Big brother is watfhing](img/yesterdays_sorrow.gif)
 
 ## The Beginnings
@@ -42,11 +43,9 @@ Its been 81 years since their inception and while they enjoyed a period of domin
 
 ## Death of Individualism
 
-![Glitched Lain](img/lain.webp){width=50%}
-
 Sonder is a neologism coined by John Koenig on his website [The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com) defined as;  
 
-*The realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness (Koenig).*
+*The realization that each random passerby is living a life as vivid and complex as your own—populated with their own ambitions, friends, routines, worries and inherited craziness.*
  
 As my life has continued on, I feel the spread of sonder has been diminished.  It makes me feel lucky to be born barely late enough to have experienced it. 
 
@@ -72,8 +71,6 @@ The value of privacy derives from its importance in our ability to perform, pres
 
 ## Digitilization of Society
 
-![A Digital World](img/digital.webp){width=60%}
-
 Every aspect of our lives has been digitized, The Information Age sparked a rebirth in how society operates on a fundamental level. However, this renewal is mandatory, technological literacy and connection is essential for socio-economic survival and success in the modern age. 
 
 The internet is now embedded in the core aspects of our participation in society; the educational, occupational, social, political, and other aspects of life all depend on compliance with internet titans. Hence there is no escape from the grasp of the machine. 
@@ -84,7 +81,7 @@ This section will address two societal pieces that corporations envelop and comm
 
 ### Life: 
 
-Windows, IOS and Android operating systems remain the dominant operating systems today. Every device running any of these constantly gathers data.
+Windows, IOS and Android operating systems remain the dominant operating systems today. Every device running any of these constantly gathers huge amounts of user data.
 
 Everything is connected today. Internet of things (IoT) devices have continued to grow more popular. Smart watches, fridges and a myriad of other appliances. 
 You are not in control.
@@ -153,6 +150,8 @@ An extremely powerful example of this surveillance tenet is social media website
 
 ### Addiction
 
+![Addiction](img/addiction.webp)
+
 “I felt so lonely… I could not sleep well without sharing or connecting to others,” a Chinese girl recalled. “Emptiness,” an Argentine boy moaned. “Emptiness overwhelms me.” A Ugandan teenager muttered, “I felt like there was a problem with me,” and an American college student whimpered, “I went into absolute panic mode.” These are but a few of the lamentations plucked from one thousand student participants in an international study of media use that spanned ten countries and five continents. They had been asked to abstain from all digital media for a mere twenty-four hours, and the experience released a planet-wide gnashing of teeth and tearing of flesh that even the study’s directors found disquieting.(4)
 
 A 2018 report by the Global Web Index found that people spend an average of 2 hours 22 minutes on social media platforms per day ("Gwi Audience Insight"). This massive time apprehension by these platforms was cultivated with a stream of practices all aimed at one goal, addiction. The addictive nature of social media has become fairly common knowledge, and the ways in which these platforms keep people psychologically hooked is an extremely dense and guarded topic. However, understanding some of the general principles and techniques utilized by these platforms grants insight into how people’s psychology is being continually exploited by these corporations to maximize profits. Afterall, keeping people on the app longer means a better stream of psychological data points and a longer period to serve advertisements. Modesty is not a trait of capitalism, all sources of profit must be intensified, including the exhibition of the mind. 
@@ -175,30 +174,118 @@ Manipulation goes beyond advertising, the tools of psychological profiling have 
 
 A commonly discussed unintended consequence formed by the societal reins of social media in combination with their core methodology of influence is the exacerbation of political polarization and extremism. This growth in polarization is largely attributed to social media fostering “echo chambers”. An echo chamber is an environment in which people interact only with like-minded individuals to form a shared narrative. Social media contributes to echo chambers via their algorithms' inherent tendency to promote content coinciding with an individual's preferences (Cinelli). This algorithmic content promotion forms a confirmation bias feedback loop that will eventually surround the user solely in information that reinforces their worldview, regardless of credibility. The lack of opposing information leads to the belief that one's views are concrete and commonsensical, damaging the chance for debate and consensus and fueling ideological polarization.
 
-## Parting Thoughts
+## You Will Own Nothing
 
-This essay is a result of incorporating <span style="color:#d4b06a;">**extreme**</span> privacy practices in my daily life for the past 3 years and the things I learned in my journey.
+>“You will own nothing and be happy.”
 
-Today privacy is an illusion but I strive to leave as little digital footprint behind as possible, it does not get any easier and burnouts keep becoming more frequent.
+It describes a future in which individuals do not personally own goods or property, instead relying on shared systems or platforms to access the resources they need.
 
-It pains me to see my friends and family trapped in the simulacra and surveillance capitalism economy of today like everyone else and I have been largely unsuccessful in making anyone understand the true nature of today's reality. No one else sees this invisible prison we spend our lives in.
+Ownership becomes slippery when everything is mediated by debt, licenses, subscriptions, platforms, and financial claims.
+
+![chart](img/chart.webp)<center>Chart of total debt, public and private (USA)</center>
+
+We may possess an asset while owing more against it than it is worth.
+
+We may have a pension or entitlement while its underlying obligations consume the income that gives it value. We may possess something physically while having little control over its economic or functional value.
+#### Subscription
+
+Everything is heading towards a subscription based model where you rent something through a perpetual subscription fees instead of just paying once and owning it.
+
+Platforms exploit it to great extents. Streaming paltforms are charging extra over base subscription to remove advertisemnets.
+
+New Volkswagen EV car has soft lock over speed cap and you require to pay monthly pay to unlock more horse power. These corporations are generating recenue sources out of thin air and people keep falling for it.
+
+
+#### Streaming
+
+The physical media has been on a great decline for the streaming media today.
+When you purchased a physical media you truely owned it and had every right to do whatever you wanted. Books, Vinyls, Cassetts, CD's, VHS and so on.
+
+Amazon can delete your entire Kindle library.
+Amazon Prime Video misled customers about their ownership rights, they thought they owned purchased movies when they actually received a limited license that can be revoked and is being revoked. Say a movie license expires for amazon company so will yours.
+
+
+It is same for every othet streaming platform. Be it video or audio, netflix or spotify.
+You do not own the music you listen to, you just get permission to listen to it.
+
+You not only own nothing but are also manipulated and fed content by the algorithm instead of exercising your own will and decide what you want to watch.
+
+#### AI 
+
+AI has started to intigrate in our lives patiently seeking our dependence on it however it is just another slippery manifestation of ownership.
+
+Most AI tools are rented from a corporation via a monthly fee, and programs that are downloaded and “owned” are still controlled by the issuing company in terms of their functionality.
+
+And if we consider ownership of cognition, then the only cognition we truly own is what we know and can create once all the AI tools and agents are offline.
+
+In other words, what we truly own and control is our own knowledge and experiences.
+
+Which makes us wonder if we’re renting AI or AI is renting us.
+#### Tokenization
+
+Tokenization is the process of converting an asset—a building, a stock, a piece of land—into a digital token on a blockchain. The token represents a claim on the asset. But it is not the asset itself. And when you buy a token, you do not own the asset. You own a token that says someone else holds the asset for you. Your name comes off the deed. Your rights become revocable.
+
+The consequences are profound.
+
+You lose control. You have no say over the property. You cannot decide to live in it, renovate it, or even visit it. Your rights are limited to the economic flows—rent or a share of any capital gains—that the token represents.
+
+Rent is now the new interest. It is a claim on your life that never ends, because you never own the thing you are paying for.
+
+You lose legal protections. The law treats you as a shareholder, not a homeowner. Traditional protections like judicial oversight in foreclosure and consumer safeguards for borrowers are eliminated. The relationship is now between a company and its investors.
+
+Your ownership becomes conditional. The token is not a title deed. It is a piece of code. It can be programmed to expire, be frozen, or be revoked based on rules set by the issuer—potentially tied to compliance scores or other algorithmic triggers.
+
+Your “ownership” becomes a revocable permission, not a durable right.
+
+### The Final Commodity
+
+Perhaps the most valuable thing left to own is not a house, a car, iPhone, or a piece of software.
+
+*It is **yourself**.*
+
+*Your thoughts.*
+
+*Your attention.*
+
+*Your memories.*
+
+*Your knowledge.*
+
+*Your ability to decide.*
+
+*Your ability to say no.*
+
+Because if the machine owns the infrastructure through which you live, the corporations own the data through which you are understood, the algorithms determine what you see, and financial institutions control the assets beneath the system—
+
+then what exactly remains that belongs to you?
+##### **You will own nothing.**
+
+##### **And you will be happy <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">being owned.</span>**
+
+<br>
 
 ## References
+
 1. [Homo Deus by Yuval Noah Harari](resources/books/homo_deus_a_brief_history_of_tomorrow_pdf.pdf)
 2. [What Is Privacy?](https://privacyinternational.org/explainer/56/what-privacy)
 3. [The Age of Surveillance Capitalism by Zuboff](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
 4. [The world unplugged](https://icmpa.umd.edu/portfolio/the-world-unplugged/)
-  5. Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” Information Technology and Law Series, 2014, doi:10.1007/978-94-6265-026-8.
-6. Privacy-Invading Technologies and Privacy by Design by Klitou
-7. Abel, Jessica P., et al. “Social Media and the Fear of Missing out: Scale Development and Assessment.” Journal of Business & Economics Research (JBER), vol. 14, no. 1, 2016, pp. 33–44., doi:10.19030/jber.v14i1.9554.
-8. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.  
-9. “Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice, www.justice.gov/archive/ll/archive.htm
-10. Cinelli, Matteo, et al. “The Echo Chamber Effect on Social Media.” Proceedings of the National Academy of Sciences, vol. 118, no. 9, 2021, doi:10.1073/pnas.2023301118.
-11. Wojcicki, Susan. “Making Ads More Interesting.” Official Google Blog, 11 Mar. 2009, https://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html.
-12. Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016, www.businessinsider.com/snowden-leaks-timeline-2016-9.
-13. Singer, Natasha. “How Google Took over the Classroom.” The New York Times, The New York Times, 13 May 2017, www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html.
-14. Romm, Tony. “Amazon, Facebook, Other Tech Giants Spent Roughly $65 Million to Lobby Washington Last Year.” The Washington Post, WP Company, 22 Jan. 2021, www.washingtonpost.com/technology/2021/01/22/amazon-facebook-google-lobbying-2020/.
+5. [The Last Asset—You Will Own Nothing](https://wendywilliamson.substack.com/p/the-last-asset)
+6. [The Technocratic Terror State Being Built Is Entirely Dependent on Technology](https://www.lewrockwell.com/2026/09/gary-d-barnett/the-technocratic-terror-state-being-built-is-entirely-dependent-on-technology/)
+7. [Welcome to 2030. I own nothing, have no privacy, and life has never been better](https://medium.com/world-economic-forum/welcome-to-2030-i-own-nothing-have-no-privacy-and-life-has-never-been-better-ee2eed62f710)
+8. [Amazons Digital Licensing Model](https://entertainment.blab.com/2026-06-22-amazons-digital-licensing-model-faces-legal-and-consumer-pushback-as-physical-media-remains-tangible-asset)
+9. [Forget Netflix, Volkswagen locks horsepower behind paid subscription](https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription)
+  10. Klitou, Demetrius. “Privacy-Invading Technologies and Privacy by Design.” Information Technology and Law Series, 2014, doi:10.1007/978-94-6265-026-8.
+11. Abel, Jessica P., et al. “Social Media and the Fear of Missing out: Scale Development and Assessment.” Journal of Business & Economics Research (JBER), vol. 14, no. 1, 2016, pp. 33–44., doi:10.19030/jber.v14i1.9554.
+12. Montag, Christian, et al. “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories.” International Journal of Environmental Research and Public Health, vol. 16, no. 14, 2019, p. 2612., doi:10.3390/ijerph16142612.  
+13. “Preserving Life and Liberty.” Life and Liberty Archive, U.S Department of Justice, www.justice.gov/archive/ll/archive.htm
+14. Cinelli, Matteo, et al. “The Echo Chamber Effect on Social Media.” Proceedings of the National Academy of Sciences, vol. 118, no. 9, 2021, doi:10.1073/pnas.2023301118.
+15. Wojcicki, Susan. “Making Ads More Interesting.” Official Google Blog, 11 Mar. 2009, https://googleblog.blogspot.com/2009/03/making-ads-more-interesting.html.
+16. Szoldra, Paul. “This Is Everything Edward Snowden Revealed in One Year of Unprecedented Top-Secret Leaks.” Business Insider, Business Insider, 16 Sept. 2016, www.businessinsider.com/snowden-leaks-timeline-2016-9.
+17. Singer, Natasha. “How Google Took over the Classroom.” The New York Times, The New York Times, 13 May 2017, www.nytimes.com/2017/05/13/technology/google-education-chromebooks-schools.html.
+18. Romm, Tony. “Amazon, Facebook, Other Tech Giants Spent Roughly $65 Million to Lobby Washington Last Year.” The Washington Post, WP Company, 22 Jan. 2021, www.washingtonpost.com/technology/2021/01/22/amazon-facebook-google-lobbying-2020/.
+19. Gwi - Audience Insight Tools, Digital Analytics & Consumer Trends.” Globalwebindex, 2018, www.gwi.com/hubfs/Downloads/Social-H2-2018-report.pdf.
 
 <br>
 
-><span style="color:yellow">**Section Under Active Construction. This is my most ambitious writing project so far and will require some time.**</span>
+><span style="color:yellow">**Section Under Active Construction. This is my most ambitious writing project so far and will require some more time.**</span>

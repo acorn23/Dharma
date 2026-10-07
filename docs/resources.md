@@ -2,6 +2,7 @@
 ## Fiction
 - [Do Androids Dream of Electric Sheep? — Philip K. Dick](<resources/books/Do Androids Dream of Electric Sheep - Blade Runner PKD 1968.pdf>)
 - [Neuromancer](<resources/books/neuromancer.pdf>)
+- [Ninteen Eighty-Four by George Orwell](resources/books/orwell1984.pdf)
 
 ## Philosophy, psychology, and human behavior
 - [The Believing Brain](<resources/books/the_believing_brain.pdf>)
