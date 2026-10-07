@@ -6,9 +6,13 @@ This page exists to be a not so personal diary of me where I write about the thi
 
 I’d rather share my thoughts and understanding with others than keep them to myself and let them settle unspoken.
 
+### Content
+
+All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md#2-objective-reality) and in fact it is the purpose of my short human life, a dream that drives my will to live.
+
 ### The Name
 
-The name is inspired by the Buddhist dharma which signifies the fundamental truths guiding all sentient beings towards enlightenment, transcending individual concerns and in other words, 'the universal truth common to all individuals at all times'.
+The name was inspired by the Buddhist dharma which signifies the fundamental truths guiding all sentient beings towards enlightenment, transcending individual concerns and in other words, 'the universal truth common to all individuals at all times'.
 
 It felt like the perfect name because of my continued emphasis on the importance of objective reality.
 
@@ -23,9 +27,9 @@ The image is a panel from _Chainsaw Man_. In this context, the astronauts repres
 This website is available on clearnet as well as the darknet.
 You are currently surfing on the:
 
-[Clearnet mirror](https://acorn23.github.io/Dharma/)<span style="color:#16a34a;font-weight:700;">✓</span>
+[Clearnet mirror](https://acorn23.github.io/Dharma/)&nbsp;&nbsp;&nbsp;<span style="color:#16a34a;font-weight:700;">✓</span>
 
-[Darknet mirror](http://dharmav7zqxi34aolkzig2hndfytgo2bkp5qkwwebcv76hgqsfj3dpad.onion/)<span style="color:#dc2626;font-weight:700;">✕</span>
+[Darknet mirror](http://dharmav7zqxi34aolkzig2hndfytgo2bkp5qkwwebcv76hgqsfj3dpad.onion/)&nbsp;&nbsp;&nbsp;<span style="color:#dc2626;font-weight:700;">✕</span>
 
 ### Contact
 

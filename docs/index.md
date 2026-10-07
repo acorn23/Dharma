@@ -30,4 +30,23 @@ The search engine [Marginalia](https://marginalia-search.com) has been really a 
 
 And lastly I can talk about whatever the heck I want to freely without worrying about any censorship or judgement. Not relying on the state to enforce my right to speech but enforcing it myself.
 
->All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md#2-objective-reality) and in fact it is the purpose of my short human life, a dream that drives my will to live.
+### TERMINAL
+
+<div class="terminal-box">
+
+  <div>
+    <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
+    cat Featured_Article.txt
+  </div>
+
+  <div>
+    <span class="terminal-prompt">$</span>
+    <a href="./panopticon" class="terminal-link">You are a Commodity</a>
+  </div>
+
+  <div class="terminal-input">
+    <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
+    <span class="cursor"></span>
+  </div>
+
+</div>
