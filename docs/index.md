@@ -30,23 +30,79 @@ The search engine [Marginalia](https://marginalia-search.com) has been really a 
 
 And lastly I can talk about whatever the heck I want to freely without worrying about any censorship or judgement. Not relying on the state to enforce my right to speech but enforcing it myself.
 
-### TERMINAL
+<div class="terminal-wrapper" id="terminal">
 
-<div class="terminal-box">
+  <div class="terminal-box">
 
-  <div>
-    <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
-    cat Featured_Article.txt
-  </div>
+    <!-- Window controls -->
+    <div class="terminal-controls">
+      <button class="terminal-control terminal-minimize"
+              aria-label="Minimize"
+              title="Minimize">−</button>
 
-  <div>
-    <span class="terminal-prompt">$</span>
-    <a href="./panopticon" class="terminal-link">You are a Commodity</a>
-  </div>
+      <button class="terminal-control terminal-maximize"
+              aria-label="Maximize"
+              title="Maximize">□</button>
 
-  <div class="terminal-input">
-    <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
-    <span class="cursor"></span>
+      <button class="terminal-control terminal-close"
+              aria-label="Close"
+              title="Close">×</button>
+    </div>
+
+    <!-- Normal terminal -->
+    <div class="terminal-content">
+
+      <div class="terminal-line terminal-command">
+        <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
+        <span class="terminal-command-text">cat Featured_Article.txt</span>
+      </div>
+
+      <div class="terminal-line terminal-output">
+        <span class="terminal-prompt">$</span>
+        <a href="./panopticon" class="terminal-link">
+          You are a Commodity
+        </a>
+      </div>
+
+      <div class="terminal-line terminal-input">
+        <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
+        <span class="cursor"></span>
+      </div>
+
+    </div>
+
+
+    <!-- Maximized terminal content -->
+    <div class="terminal-tree">
+
+      <div class="tree-header">
+        <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
+        <span class="tree-command">tree</span>
+      </div>
+
+      <pre class="tree-output">.
+└── dharma
+    ├── docs
+    │   ├── *.md                 # Articles/topics
+    │   ├── blog/                # Blog + posts
+    │   ├── img/                 # Images
+    │   ├── resources/           # Books + surveillance PDFs
+    │   ├── javascripts/         # Site JS
+    │   └── stylesheets/         # CSS
+    ├── mkdocs.yml               # MkDocs config
+    └── site/                    # Generated static website
+        ├── */index.html         # Built pages
+        ├── assets/              # JS/CSS/search assets
+        ├── img/                 # Built images
+        └── resources/           # Built PDFs/resources
+
+      <div class="tree-prompt">
+        <span class="terminal-cyan">user@dharma</span><span>:</span><span class="terminal-green">~</span><span>$</span>
+        <span class="cursor"></span>
+      </div>
+
+    </div>
+
   </div>
 
 </div>

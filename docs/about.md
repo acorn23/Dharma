@@ -8,7 +8,7 @@ I’d rather share my thoughts and understanding with others than keep them to m
 
 ### Content
 
-All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [Objective Reality](reality.md) and in fact it is the purpose of my short human life, a dream that drives my will to live.
+All the content here was written by me to the best of my understanding and can be inaccurate. It is my fundamental belief that my knowledge will never be complete and accurate but I strive to stay close to the [objective reality](reality.md#1-objective-reality) and in fact it is the purpose of my short human life, a dream that drives my will to live.
 
 ### The Name
 
@@ -21,7 +21,7 @@ It felt like the perfect name because of my continued emphasis on the importance
 
 The homepage was inspired by the 90's geocity website's unique persona and simplicity. 
 
-The image is a panel from _Chainsaw Man_. In this context, the astronauts represent ordinary civilians submitting to a greater force: the Darkness Devil, which can be read as a metaphor for the elite class controlling us from the shadows through the panopticon. A quote from the Nowhere Community suggests that escape is possible and offers guidance on how to do it.
+The image is a panel from _Chainsaw Man_. In this context, the astronauts represent ordinary civilians submitting to a greater force: the Darkness Devil, which can be seen as a metaphor for those in power  controlling us from the shadows through the [panopticon](panopticon.md#the-rise-of-panopticon). A quote from the Nowhere Community suggests that escape is possible and offers guidance on how to do it.
 ### Mirrors
 
 This website is available on clearnet as well as the darknet.
