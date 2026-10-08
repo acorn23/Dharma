@@ -1,16 +1,11 @@
 
-> At present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
+<img src="../img/forgiveness.png">
 
+> At present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
 
 <span> <p style="text-align:right;"> ~From [The Gay Science by Friedrich Nietzsche](resources/books/The-Gay-Science-by-Friedrich-Nietzsche.pdf) </p> </span>
 
-![Jester](img/Jan_Matejko_Stanczyk.webp)
-<center>Stańczyk by Jan Matejko</center>
-<br>
-
 ## Reality is harsh and sad
-
-The above painting called _**Stańczyk**_ by Jan Matejko depicts a court jester sitting melancholically in deep thought while a party is going on in background. He is supposed to be lively and happy being a jester but appears alone and serious as he is the sole person with the knowledge that their kingdom will be invaded tomorrow.
 
 We are all alone in the vastness of our observable universe. We are not special and won't even leave a lasting legacy after completing our short human life. There's a saying that people die twice - once when they die and a second time when they will be remembered for a last time. It's natural to feel scared and hopeless in the grand scheme of things.
 

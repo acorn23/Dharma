@@ -7,7 +7,7 @@
 
 ## The Beginnings
 
-<span style="float:left; font-size:3em; line-height:0.8; padding-right:6px; padding-top:2px; font-family:Georgia, serif; color:#FFFFFF; font-weight:bold;">T</span>hroughout the relatively short human history, those in power have always tried to control and suppress the masses. However for the longest time it proved extremely challenging due to the inability to obtain information on everyone. The greatest Kings could not micromanage the social, economic and cultural lives of every individual but could only do so much with the limited information such as enforcing taxes to raise armies and punishments to ensure that the majority remained governable.
+<span style="float:left; font-size:3em; line-height:1.0; padding-right:6px; padding-top:2px; font-family:Georgia, serif; color:#FFFFFF; font-weight:bold;">T</span>hroughout the relatively short human history, those in power have always tried to control and suppress the masses. However for the longest time it proved extremely challenging due to the inability to obtain information on everyone. The greatest Kings could not micromanage the social, economic and cultural lives of every individual but could only do so much with the limited information such as enforcing taxes to raise armies and punishments to ensure that the majority remained governable.
 
 ## The Dawn and Reckoning of Science
 

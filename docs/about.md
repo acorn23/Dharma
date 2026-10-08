@@ -31,6 +31,9 @@ You are currently surfing on the:
 
 [Darknet mirror](http://dharmav7zqxi34aolkzig2hndfytgo2bkp5qkwwebcv76hgqsfj3dpad.onion/)&nbsp;&nbsp;&nbsp;<span style="color:#dc2626;font-weight:700;">✕</span>
 
+### Privacy
+
+This website **does not** collect, store, track user data and use cookies. However the hosting service, GitHub Pages logs the visitor’s IP address when visiting the clearnet mirror. Javascript is recommended for smooth functioning.
 ### Contact
 
 For any questions regarding the integrity of information here, discussion of an idea or just a friendly chat.

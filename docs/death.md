@@ -1,7 +1,6 @@
 # Death
 
-![Ophelia](img/Ophelia.webp)
-<center> Ophelia by John Everett Millais, 1851-1852 </center>
+![Skull](img/skull.png){ align=right  width=50%}
 
 <br>
 
