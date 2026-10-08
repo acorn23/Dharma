@@ -549,3 +549,15 @@ body.homepage .md-content__inner {
 .md-content {
     text-align: justify;
 }
+
+/* =========================
+   STARS BACKGROUND
+   ========================= */
+
+body:not(.homepage) {
+  background-color: #000 !important;
+  background-image: url("../img/stars.png") !important;
+  background-repeat: repeat !important;
+  background-size: 300px 300px !important;
+  background-attachment: fixed !important;
+}

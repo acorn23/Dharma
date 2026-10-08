@@ -4,21 +4,13 @@ site_url: https://acorn23.github.io/dharma/
 nav:
   - Home: index.md
 
-  - General:
-      - Dead Internet Theory: dead_internet_theory.md
-      - Crypto currency: mining_monero.md
-
   - Philosophy:
       - Introduction: introduction.md
       - Understanding Reality: reality.md
+      - Death and Morality: death.md
       - Superstition and Belief Systems: superstition.md
       - Postmodernism: postmodernism.md
-      - Ownership: ownership.md
       - Beauty: beauty.md
-      - Death: death.md
-
-  - Science:
-      - Space: space.md
 
   - The Surveillance Apparatus:
       - You are a Commodity: panopticon.md
