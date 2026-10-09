@@ -571,3 +571,18 @@ body:not(.homepage) {
   background-size: 300px 300px !important;
   background-attachment: fixed !important;
 }
+
+.teal-table table,
+.teal-table th,
+.teal-table td {
+  border: 1px solid teal;
+}
+
+/* Remove the gap between the philosopher image and table */
+.md-typeset p:has(> img[alt="Philosopher"]) {
+    margin-bottom: 0;
+}
+
+.md-typeset p:has(> img[alt="Philosopher"]) + table {
+    margin-top: 0;
+}
