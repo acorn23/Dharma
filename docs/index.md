@@ -23,9 +23,7 @@ This page exists to be a not so personal diary of me where I write about the thi
 
 In short, because the [Internet is DEAD](dead_internet_theory.md)
 
-I had my first exposure to the internet back in 2011 when my dad bought a personal computer home. Those were simple times, I would spend hours playing flash games, trying to discover the things that mattered to me on YouTube and internet.
-
-The internet of today is particularly defined by a few social media sites controlled by tech giants who dictate the surveillance capitalism economy. It comprises more bots than humans. It is so frustrating to look up something and be bombarded with ai slop websites which are all a copy of eachother.
+The internet of today is particularly defined by a few social media sites controlled by tech giants who dictate the [surveillance capitalism](panopticon.md#surveillance-capitalism) economy. It comprises more bots than humans. It is so frustrating to look up something and be bombarded with ai slop websites which are all a copy of eachother.
 The search engine [Marginalia](https://marginalia-search.com) has been really a lifesaver alowing me to search through human curated content and the darknet has become my sanctuary where I can still meet and talk with real and like minded people online.
 
 And lastly I can talk about whatever the heck I want to freely without worrying about any censorship or judgement. Not relying on the state to enforce my right to speech but enforcing it myself.

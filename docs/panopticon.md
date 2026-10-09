@@ -27,9 +27,12 @@ The postmodernism movement is meaningless because it adds nothing to analytical 
 
 Science cannot be morally judged for it simply waits to be used by humans who decide how to use it.
 
- >_“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”_
- <div align="right">~ Albert Einstein</div>
+>_“I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.”_
 
+
+<div align="right">~ Albert Einstein</div>
+
+<br>
 This shows that humans would wage war even without science, for conflict is rooted in human nature itself.
 ### Weilding the Power of God
 
@@ -112,8 +115,8 @@ If students continue to rely on Google's products into adulthood, those millions
 <br>
 
 ![The Panopticon](img/panop.webp)
-<br>
 
+<br>
 The panopticon is a prison design by Jeremy Bentham with a central guard tower that can see into every prison cell, but the inmates cannot see into the guard tower - unable to know if they are being watched. 
 
 Today, the panopticon serves as a powerful metaphor for the state of digital surveillance. Government agencies and corporations alike look into every aspect of our lives, but we are unable to look back. A panopticon is not built overnight, and neither is a data empire. The development of a surveillance-enveloped world was a slow, meditated descent as a result of continued willful ignorance, extenuation, and bewilderment.
@@ -262,9 +265,9 @@ Perhaps the most valuable thing left to own is not a house, a car, iPhone, or a 
 Because if the machine owns the infrastructure through which you live, the corporations own the data through which you are understood, the algorithms determine what you see, and financial institutions control the assets beneath the system then...
 
 what exactly remains that belongs to you?
-##### **You will own nothing.**
+## **You will own nothing.**
 
-##### **And you will be happy <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">being owned.</span>**
+## **And you will be happy <span style="background: linear-gradient(90deg, #5a0000 0%, #8b0000 45%, #ff1a1a 70%, #5a0000 100%); -webkit-background-clip: text; color: transparent; text-shadow: 0 0 6px rgba(255,0,0,0.6);">being owned.</span>**
 
 <br>
 

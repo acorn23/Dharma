@@ -1,4 +1,6 @@
-I have tried to read books on philosophy, particularly the famous ones whose name gets thrown around quiet often, hoping it would provide me answers to all kind of big questions but I could never make sense of anything and quickly lost any motivation to continue. The reason was becuase philosophical works are experiences and beliefs that people try to put into words. They don't make sense to you unless you already know and understand them. 
+## This serves as an introduction to the philosophy section
+
+I have tried to read books on philosophy, particularly the famous ones whose name gets thrown around quiet often, hoping it would provide me answers to all kind of big questions but I could never make sense of anything and quickly lost any motivation to continue. The reason was becuase philosophical works are experiences and beliefs that people try to put into words. They don't make sense to you unless you already know and understand them. Therefore it is important to pick the right book.
 
 It's natural to question the meaning of life, to suddenly become aware of the structure of life we don't notice daily. One of the first such moment occured to me when I beleive I was around the age of 5. I was lying down on my bed and looking at my hand I just wondered; how is it that I am moving my hand and fingers. They move how I intend them to but how does it happen. It felt weird and still does whenever I do it. I don't do it intentionally, the thought forms out of nowhere and I just take a step back from whatever I maybe doing and just contemplate about it.
 

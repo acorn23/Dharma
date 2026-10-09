@@ -7,12 +7,12 @@ nav:
   - Philosophy:
       - Introduction: introduction.md
       - Understanding Reality: reality.md
-      - Death and Morality: death.md
+      - Morality and Death: death.md
       - Superstition and Belief Systems: superstition.md
       - Postmodernism: postmodernism.md
       - Beauty: beauty.md
 
-  - The Surveillance Apparatus:
+  - Surveillance:
       - You are a Commodity: panopticon.md
       - AI Enabled Mass Surveillance: ai.md
 

@@ -17,8 +17,7 @@
 - [The Demon-Haunted World — Carl Sagan](<resources/books/Carl Sagan - The Demon Haunted World.pdf>)
 - [Higgs in a Box](resources/books/higgs_in_a_box.pdf)
 
-## Technology, computing, and cryptocurrency
-- [Berry Computer](<resources/books/berry-computer.pdf>)
+## Cryptocurrency
 - [Mastering Monero — First Edition](<resources/books/Mastering Monero First Edition by SerHack and Monero Community.pdf>)
 - [Zero to Monero — Version 2.0.0](<resources/books/Zero-to-Monero-2-0-0.pdf>)
 
@@ -39,15 +38,6 @@
 ## Economics and finance
 - [The Age of Surveillance Capitalism](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
 - [Worthless Paper Promises — LewRockwell](<resources/books/Worthless Paper Promises - LewRockwell.pdf>)
-
-## Surveillance Resources
-
-- [Digital Authoritarianism in India](resources/surveillance/digital-authoritarianism-india.pdf)
-- [Government Surveillance and Privacy in India](resources/surveillance/government-surveillance-privacy-india.pdf)
-- [Mass Surveillance in the Age of AI](resources/surveillance/mass-surveillance-ai-india.pdf)
-- [Surveillance in India and Privacy Challenges](resources/surveillance/surveillance-privacy-india.pdf)
-- [Privacy, National Security, Liberty and Surveillance](resources/surveillance/privacy-national-security-surveillance.pdf)
-
 
 ## Tor
 

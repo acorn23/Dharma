@@ -7,7 +7,7 @@ Reality is the totality of everything that exists, independently of whether anyo
 ![Flammarion_engraving](img/Flammarion_engraving.webp)
 <center>Flammarion Engraving (1888)</center>
 
-<center>It depicts a pilgrim-like figure who passes through an opening in the firmament to discover a realm of circling clouds, fires, and suns beyond the sky. </center>
+*It depicts a pilgrim-like figure who passes through an opening in the firmament to discover a realm of circling clouds, fires, and suns beyond the sky.* 
 
 <br>
 ## Origin of Life
