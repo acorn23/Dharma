@@ -27,10 +27,12 @@ nav:
       - The Sacrificial Machine—How Private Finance Turned War into Permanent Profit: war.md
 
   - Resources: resources.md
+  - Guestbook: comments.md
   - About: about.md
 
 theme:
   name: material
+  custom_dir: overrides
 
   palette:
     scheme: slate
