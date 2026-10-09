@@ -1,4 +1,9 @@
-## This serves as an introduction to the philosophy section
+![Philosopher](img/philosopher.png){ align=left }
+
+|  | Philosophy |  |
+|---|---|---|
+| [Introduction](introduction.md) | [Understanding Reality](reality.md) | [Morality and Death](death.md) |
+| [Superstition and Belief Systems](superstition.md) | [Postmodernism](postmodernism.md) | [Beauty](beauty.md) | 
 
 I have tried to read books on philosophy, particularly the famous ones whose name gets thrown around quiet often, hoping it would provide me answers to all kind of big questions but I could never make sense of anything and quickly lost any motivation to continue. The reason was becuase philosophical works are experiences and beliefs that people try to put into words. They don't make sense to you unless you already know and understand them. Therefore it is important to pick the right book.
 
