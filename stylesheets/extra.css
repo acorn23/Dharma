@@ -603,7 +603,7 @@ body:has(.devil-page-marker)::after {
     z-index: 9999;
 }
 
-/* Devil image: only on devil.md, behind the text */
+/* Devil image: only on devil.md */
 body:has(.devil-page-marker) {
     background-image: url("../img/devil.png") !important;
     background-repeat: no-repeat !important;
@@ -612,6 +612,14 @@ body:has(.devil-page-marker) {
     background-attachment: fixed !important;
 }
 
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    body:has(.devil-page-marker) {
+        background-size: auto 75% !important;
+        background-position: center bottom !important;
+        background-attachment: scroll !important;
+    }
+}
 /* White glitch — fixed character positions */
 .glitch-text {
     position: relative;
@@ -664,4 +672,196 @@ body:has(.devil-page-marker) {
     25% { transform: translateX(2px); }
     50% { transform: translateX(-2px); }
     75% { transform: translateX(1px); }
+}
+
+
+/* ================================
+   QUOTE CAROUSEL CONTAINER
+================================ */
+
+.devil-quotes {
+  --quote-gap: 18px;
+  --quote-speed: 55s;
+
+  width: 100%;
+  overflow: hidden;
+  padding: 12px 0 22px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+
+  background: transparent !important;
+  background-color: transparent !important;
+}
+
+/* ================================
+   SCROLLING ROWS
+================================ */
+
+.devil-quotes .quote-row {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  background: transparent !important;
+  background-color: transparent !important;
+
+  /* Fade edges */
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 5%,
+    black 95%,
+    transparent
+  );
+
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 5%,
+    black 95%,
+    transparent
+  );
+}
+
+/* ================================
+   MOVING TRACK
+================================ */
+
+.devil-quotes .quote-track {
+  display: flex;
+  width: max-content;
+  gap: var(--quote-gap);
+
+  background: transparent !important;
+  background-color: transparent !important;
+
+  will-change: transform;
+
+  animation: quotes-left var(--quote-speed) linear infinite;
+}
+
+/* Bottom row moves in the opposite direction */
+.devil-quotes .quote-row-right .quote-track {
+  animation-name: quotes-right;
+  animation-duration: 65s;
+}
+
+/* ================================
+   TRANSPARENT QUOTE BOXES
+================================ */
+
+.devil-quotes .quote-card {
+  box-sizing: border-box;
+
+  flex: 0 0 320px;
+  width: 320px;
+  min-height: 115px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+
+  /* Force transparent backgrounds */
+  background: transparent !important;
+  background-color: transparent !important;
+  background-image: none !important;
+
+  /* Remove shadows */
+  box-shadow: none !important;
+  text-shadow: none;
+
+  /* Border and corners */
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 12px;
+
+  /* Text styling */
+  color: var(--md-default-fg-color);
+  white-space: normal;
+  text-align: center;
+  line-height: 1.6;
+  font-size: 14px;
+  font-weight: 500;
+
+  transition: border-color 0.25s ease;
+}
+
+/* Hover effect without a background */
+.devil-quotes .quote-card:hover {
+  background: transparent !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+
+  border-color: var(--md-primary-fg-color);
+}
+
+/* ================================
+   ANIMATIONS
+================================ */
+
+/* Top row: right to left */
+@keyframes quotes-left {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(
+      calc(-50% - var(--quote-gap) / 2)
+    );
+  }
+}
+
+/* Bottom row: left to right */
+@keyframes quotes-right {
+  from {
+    transform: translateX(
+      calc(-50% - var(--quote-gap) / 2)
+    );
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Pause animation on hover */
+.devil-quotes .quote-row:hover .quote-track {
+  animation-play-state: paused;
+}
+
+/* ================================
+   MOBILE RESPONSIVENESS
+================================ */
+
+@media (max-width: 600px) {
+  .devil-quotes {
+    --quote-gap: 12px;
+
+    padding: 8px 0 16px;
+    gap: 12px;
+  }
+
+  .devil-quotes .quote-card {
+    flex-basis: 260px;
+    width: 260px;
+    min-height: 105px;
+
+    padding: 16px;
+    font-size: 13px;
+  }
+}
+
+/* ================================
+   REDUCED MOTION ACCESSIBILITY
+================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  .devil-quotes .quote-track {
+    animation: none !important;
+    transform: none !important;
+  }
 }
