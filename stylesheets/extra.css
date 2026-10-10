@@ -641,6 +641,16 @@ body:has(.devil-page-marker) > * {
     position: relative;
     z-index: 1;
 }
+
+/* Transparent table on devil.md only */
+body:has(.devil-page-marker) table,
+body:has(.devil-page-marker) th,
+body:has(.devil-page-marker) td {
+    background: transparent !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
 /* White glitch — fixed character positions */
 .glitch-text {
     position: relative;
