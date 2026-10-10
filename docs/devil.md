@@ -1,6 +1,46 @@
 <div class="devil-page-marker"></div>
 
-#  IN <div class="glitch-text" data-text="X7#K2@">X7#K2@</div>  WE TRUST
+# <div class="glitch-text" data-text=" IN GOD WE TRUST">IN G0D WE TRUST</div>  
+
+<div class="devil-quotes">
+
+  <!-- Top row: right to left -->
+  <div class="quote-row quote-row-left">
+    <div class="quote-track">
+      <div class="quote-card">Let everyone be subject to the governing authorities, for there is no authority except that which God has established.</div>
+      <div class="quote-card">The authorities that exist have been established by God.</div>
+      <div class="quote-card">Whoever rebels against the authority is rebelling against what God has instituted.</div>
+      <div class="quote-card">Rulers hold no terror for those who do right, but for those who do wrong.</div>
+      <div class="quote-card">Do you want to be free from fear of the one in authority? Then do what is right.</div>
+
+      <!-- Duplicate for a seamless loop -->
+      <div class="quote-card">Let everyone be subject to the governing authorities, for there is no authority except that which God has established.</div>
+      <div class="quote-card">The authorities that exist have been established by God.</div>
+      <div class="quote-card">Whoever rebels against the authority is rebelling against what God has instituted.</div>
+      <div class="quote-card">Rulers hold no terror for those who do right, but for those who do wrong.</div>
+      <div class="quote-card">Do you want to be free from fear of the one in authority? Then do what is right.</div>
+    </div>
+  </div>
+
+  <!-- Bottom row: left to right -->
+  <div class="quote-row quote-row-right">
+    <div class="quote-track">
+      <div class="quote-card">For the one in authority is God’s servant for your good.</div>
+      <div class="quote-card">If you do wrong, be afraid, for rulers do not bear the sword for no reason.</div>
+      <div class="quote-card">They are God’s servants, agents of wrath to bring punishment on the wrongdoer.</div>
+      <div class="quote-card">It is necessary to submit to the authorities, not only because of possible punishment but also as a matter of conscience.</div>
+      <div class="quote-card">Give to everyone what you owe them: taxes, revenue, respect, and honor.</div>
+
+      <!-- Duplicate for a seamless loop -->
+      <div class="quote-card">For the one in authority is God’s servant for your good.</div>
+      <div class="quote-card">If you do wrong, be afraid, for rulers do not bear the sword for no reason.</div>
+      <div class="quote-card">They are God’s servants, agents of wrath to bring punishment on the wrongdoer.</div>
+      <div class="quote-card">It is necessary to submit to the authorities, not only because of possible punishment but also as a matter of conscience.</div>
+      <div class="quote-card">Give to everyone what you owe them: taxes, revenue, respect, and honor.</div>
+    </div>
+  </div>
+
+</div>
 
 
 **Romans 13:1-7** establishes the dogma for obeying the worldly authorities, and from this religious thinking, all of the conflict we see in the world today. There is no law, culture, politics, philosophy, without religion. Yes, religion preceded all of those, it was the lowest bar to clear for a group of people to have a shared set of beliefs. Opinions about ethics, morality, law, in isolation from religion are misinformed at best. To understand the sorry state of humanity requires an investigation of the history of religion: what it says is more of a reflection on us as a species, than about the supernatural world. The ancient ruling class all believed they were superior to the rest of mankind, as if they were even a different species. They were above the rules, treated the rest of us as human cattle, they still do but now they have to hide their intentions behind closed doors and private islands (Epstein case). Religion was the tool they used and co-opted to legitimize their authority.
