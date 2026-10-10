@@ -603,40 +603,44 @@ body:has(.devil-page-marker)::after {
     z-index: 9999;
 }
 
-/* Devil image: only on devil.md */
+/* Devil page: fixed background image */
 body:has(.devil-page-marker) {
-    background-image: url("../img/devil.png") !important;
-    background-repeat: no-repeat !important;
-    background-position: center bottom !important;
-    background-size: auto 180% !important;
-    background-attachment: fixed !important;
+    background-image: none !important;
+    position: relative;
 }
 
-/* Mobile fix: Devil page only */
-@media screen and (max-width: 768px) {
-
-    body:has(.devil-page-marker) {
-        background-image: url("../img/devil.png") !important;
-        background-repeat: no-repeat !important;
-        background-position: center bottom !important;
-        background-size: auto 100% !important;
-        background-attachment: scroll !important;
-    }
-
-    body:has(.devil-page-marker)::after {
-        position: fixed;
-        inset: 0;
-        background-image: url("../img/shackle.png");
-        background-repeat: no-repeat;
-        background-position: center bottom;
-        background-size: auto 100%;
-        opacity: 0.50;
-        pointer-events: none;
-        z-index: 9999;
-        content: "";
-    }
+/* Devil image: fixed layer */
+body:has(.devil-page-marker)::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: url("../img/devil.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: auto 180%;
+    pointer-events: none;
+    z-index: 0;
 }
 
+/* Shackles overlay: same size and alignment */
+body:has(.devil-page-marker)::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: url("../img/shackle.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: auto 180%;
+    opacity: 0.50;
+    pointer-events: none;
+    z-index: 9999;
+}
+
+/* Keep page content above the devil background */
+body:has(.devil-page-marker) > * {
+    position: relative;
+    z-index: 1;
+}
 /* White glitch — fixed character positions */
 .glitch-text {
     position: relative;
