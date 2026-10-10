@@ -1,6 +1,6 @@
 <div class="devil-page-marker"></div>
 
-# <div class="glitch-text" data-text=" IN █████ WE TRUST">IN █████ WE TRUST</div>  
+# <div class="glitch-text" data-text=" IN ███ WE TRUST">IN ███ WE TRUST</div>  
 
 <div class="devil-quotes">
 
