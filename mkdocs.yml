@@ -8,6 +8,7 @@ nav:
       - Introduction: introduction.md
       - Understanding Reality: reality.md
       - Morality and Death: death.md
+      - Delusion: delusion.md
       - Superstition and Belief Systems: superstition.md
       - Postmodernism: postmodernism.md
       - Beauty: beauty.md
@@ -22,14 +23,6 @@ nav:
       - India:
           - Withering Democracy: autocracy.md
           - Financial System: finance.md
-
-  - Truth:
-      - "In [Redacted] We Trust": devil.md
-      - Civilization Is A Scam: civilization.md
-      - Justice Is the Will of the Stronger: justice.md
-
-  - Archive:
-      - The Sacrificial Machine—How Private Finance Turned War into Permanent Profit: war.md
 
   - Resources: resources.md
   - Guestbook: comments.md

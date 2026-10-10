@@ -39,6 +39,10 @@
 - [The Age of Surveillance Capitalism](resources/books/The_Age_of_Surveillance_Capitalism.pdf)
 - [Worthless Paper Promises — LewRockwell](<resources/books/Worthless Paper Promises - LewRockwell.pdf>)
 
+## Further Reading
+
+- [The Sacrificial Machine—How Private Finance Turned War into Permanent Profit](https://wendywilliamson.substack.com/p/the-sacrificial-machine)
+
 ## Tor
 
 > `.onion` links require the Tor Browser or another Tor-compatible service.
