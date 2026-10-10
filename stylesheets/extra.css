@@ -586,3 +586,82 @@ body:not(.homepage) {
 .md-typeset p:has(> img[alt="Philosopher"]) + table {
     margin-top: 0;
 }
+
+/* Shackles overlay only on devil.md */
+body:has(.devil-page-marker)::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+
+    background-image: url("../img/shackle.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: auto 180%;
+
+    opacity: 0.50;
+    pointer-events: none;
+    z-index: 9999;
+}
+
+/* Devil image: only on devil.md, behind the text */
+body:has(.devil-page-marker) {
+    background-image: url("../img/devil.png") !important;
+    background-repeat: no-repeat !important;
+    background-position: center bottom !important;
+    background-size: auto 180% !important;
+    background-attachment: fixed !important;
+}
+
+/* White glitch — fixed character positions */
+.glitch-text {
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    font-family: monospace;
+    font-size: 2.5rem;
+    font-weight: 900;
+    letter-spacing: 8px;
+    text-shadow: 0 0 8px #fff, 0 0 20px #aaa;
+    animation: white-flicker 0.12s infinite;
+}
+
+.glitch-text::before,
+.glitch-text::after {
+    content: attr(data-text);
+    position: absolute;
+    inset: 0;
+    color: #fff;
+    background: transparent;
+    pointer-events: none;
+}
+
+.glitch-text::before {
+    animation: glitch-slice-a 0.18s steps(2, end) infinite;
+    clip-path: inset(0 0 55% 0);
+}
+
+.glitch-text::after {
+    animation: glitch-slice-b 0.14s steps(2, end) infinite;
+    clip-path: inset(50% 0 0 0);
+}
+
+@keyframes white-flicker {
+    0%, 100% { opacity: 1; }
+    45% { opacity: 0.75; }
+    48% { opacity: 0.95; }
+    70% { opacity: 0.6; }
+}
+
+@keyframes glitch-slice-a {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-2px); }
+    50% { transform: translateX(2px); }
+    75% { transform: translateX(-1px); }
+}
+
+@keyframes glitch-slice-b {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(2px); }
+    50% { transform: translateX(-2px); }
+    75% { transform: translateX(1px); }
+}
