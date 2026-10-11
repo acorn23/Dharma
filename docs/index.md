@@ -16,17 +16,29 @@ body_class: homepage
 
 <br>
 # Welcome to DHARMA
-This is my personal webpage in a small corner of the darknet. I haven been wanting to write a diary for the longest time but it always felt like a daunting task.
-This page exists to be a not so personal diary of me where I write about the things I learn and experience.
+This is my personal webpage which serves to be an extension of my inner thoughts.
+I haven been wanting to write a diary for the longest time but it always felt like a daunting task.
+This place exists to be a not so personal diary of me where I write about the things I learn and experience without worrying about censorship.
 
-### Why host a static website over tor network instead of just using social media ?
+### Why host a static website instead of just using social media ?
 
 In short, because the Internet is DEAD.
 
 The internet of today is particularly defined by a few social media sites controlled by tech giants who dictate the [surveillance capitalism](panopticon.md#surveillance-capitalism) economy. It comprises more bots than humans. It is so frustrating to look up something and be bombarded with ai slop websites which are all a copy of eachother.
-The search engine [Marginalia](https://marginalia-search.com) has been really a lifesaver alowing me to search through human curated content and the darknet has become my sanctuary where I can still meet and talk with real and like minded people online.
 
-And lastly I can talk about whatever the heck I want to freely without worrying about any censorship or judgement. Not relying on the state to enforce my right to speech but enforcing it myself.
+### Nature of content you will find here !
+
+At some point in your life, you have invariably felt it. There is poison that is being spilled all around the world, straight into your mind. It has been changing everyone around you, it may have started to change you as well.
+
+But why is nobody talking about it? Why is nobody naming it, calling it out? Why is nobody questioning its existence, or it's authority?
+
+The mind poisoning of mankind is real, it has become efficient, it has become convenient, and even worshiped.
+
+Science can help everyone understand the true nature of [reality](reality.md), and in turn everything else.
+
+But the individual has to be willing to accept the reality, it must come from their own individual will, you cannot force them from the outside, it has to come from within them. 
+
+<br>
 
 <div class="terminal-wrapper" id="terminal">
 

@@ -1,4 +1,6 @@
-
+---
+comments: false
+---
 <img src="../img/forgiveness.png">
 
 > At present, the comedy of existence has not yet 'become conscious' of itself; at present, we still live in the age of tragedy, in the age of moralities and religions.
