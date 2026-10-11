@@ -896,3 +896,29 @@ body:has(.devil-page-marker) td {
     transform: none !important;
   }
 }
+
+.seagate-ad { max-width: 850px; margin: 0 auto; font-family: Georgia, "Times New Roman", serif; line-height: 1.7; }
+
+.seagate-ad .ad-header { display: block; width: 100%; text-align: center !important; margin: 2rem auto 3rem; }
+
+.seagate-ad .ad-header h1, .seagate-ad .ad-header h2 { text-align: center !important; font-family: Georgia, "Times New Roman", serif; font-weight: bold; line-height: 1.2; border: none; margin: 0.6rem 0; }
+
+.seagate-ad .ad-header h1 { font-size: clamp(2rem, 5vw, 3.2rem); }
+
+.seagate-ad .ad-header h2 { font-size: clamp(1.7rem, 4vw, 2.5rem); }
+
+.seagate-ad .ad-content p { margin: 1.5rem 0; }
+
+.seagate-ad .seagate-logo, .seagate-ad .drive-image { display: block; width: 100%; text-align: center; margin: 2rem auto; }
+
+.seagate-ad .seagate-logo img { display: block; width: 200px; max-width: 80%; height: auto; margin: 0 auto; }
+
+.seagate-ad .caption { font-size: 0.75rem; font-style: italic; text-align: center; margin-top: 0.5rem !important; }
+
+.seagate-ad .drive-image img { display: block; width: 100%; max-width: 650px; height: auto; margin: 0 auto; }
+
+.seagate-ad .phone-number { color: #16a34a; }
+
+@media (max-width: 600px) { .seagate-ad .ad-header { margin: 1rem auto 2rem; }
+
+.seagate-ad .drive-image img { max-width: 100%; } }
