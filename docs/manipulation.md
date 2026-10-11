@@ -33,7 +33,7 @@ So if you can manipulate the apparent consensus, you can make people doubt their
 ### Social media opened new frontiers for manipualrion
 
 
- Before [social media](panopticon.md#Addiction) came, one way to manipulate reality was censorship. The government would have the gatekeepers and threaten to prosecute or shutdown the outlets if they disagreed.
+Before social media came, one way to manipulate reality was censorship. The government would have the gatekeepers and threaten to prosecute or shutdown the outlets if they disagreed.
 
 Social media came and started doing the opposite of censorship. You can now drown people in the sea of information. You can make it very difficult or impossible for people telling the truth to get attention by doing what Steve Bannon called flooding the zone with shit. 
 <p align="center">

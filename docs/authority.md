@@ -1,5 +1,4 @@
 <div class="devil-page-marker"></div>
-
 # <div class="glitch-text" data-text=" IN ███ WE TRUST">IN ███ WE TRUST</div>  
 
 <div class="devil-quotes">
@@ -41,7 +40,6 @@
   </div>
 
 </div>
-
 
 **Romans 13:1-7** or **Quran 4:59** they all establish the dogma for obeying the worldly authorities, and from this religious thinking, all of the conflict we see in the world today. There is no law, culture, politics, philosophy, without religion. Opinions about ethics, morality, law, in isolation from religion are misinformed at best. To understand the sorry state of humanity requires an investigation of the history of religion: what it says is more of a reflection on us as a species, than about the supernatural world. The ancient ruling class all believed they were superior to the rest of mankind, as if they were even a different species. They were above the rules, treated the rest of us as human cattle, they still do but now they have to hide their intentions behind closed doors and private islands (Epstein case). Religion was the tool they used and co-opted to legitimize their authority.
 

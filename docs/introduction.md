@@ -1,5 +1,3 @@
-![Philosopher](img/philosopher.png){ align=left }
-
 |  | Philosophy |  |
 |---|---|---|
 | [Introduction](introduction.md) | [Understanding Reality](reality.md) | [Morality and Death](death.md) |

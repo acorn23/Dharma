@@ -21,7 +21,7 @@ This page exists to be a not so personal diary of me where I write about the thi
 
 ### Why host a static website over tor network instead of just using social media ?
 
-In short, because the [Internet is DEAD](dead_internet_theory.md)
+In short, because the Internet is DEAD.
 
 The internet of today is particularly defined by a few social media sites controlled by tech giants who dictate the [surveillance capitalism](panopticon.md#surveillance-capitalism) economy. It comprises more bots than humans. It is so frustrating to look up something and be bombarded with ai slop websites which are all a copy of eachother.
 The search engine [Marginalia](https://marginalia-search.com) has been really a lifesaver alowing me to search through human curated content and the darknet has become my sanctuary where I can still meet and talk with real and like minded people online.
