@@ -13,6 +13,10 @@ nav:
       - Postmodernism: postmodernism.md
       - Beauty: beauty.md
 
+  - Society:
+      - Authority: authority.md
+      - Effacing Empathy: manipulation.md
+
   - Surveillance:
       - You are a Commodity: panopticon.md
       - AI Enabled Mass Surveillance: ai.md
@@ -26,6 +30,7 @@ nav:
 
   - Resources: resources.md
   - Guestbook: comments.md
+  - Sponsored: ad.md
   - About: about.md
 
 theme:
