@@ -13,14 +13,14 @@
   </p>
 
 <p align="center">
-  <img src="/dharma/img/seagate.png" width="20%">
+  <img src="/Dharma/img/seagate.png" width="20%">
 </p>
 
   <center><p style="font-size:15px;">The first name in disc drives</p></center>
 
   <br>
 <p align="center">
-  <img src="/dharma/img/hdd.png" width="100%">
+  <img src="/Dharma/img/hdd.png" width="100%">
 </p>
 
 <div style="font-family: Georgia, serif; line-height: 1.5;"><p>With capacity this high, ST4096 is ideal for heavy database or spreadsheet applications.

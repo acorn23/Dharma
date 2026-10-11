@@ -37,7 +37,7 @@ Before social media came, one way to manipulate reality was censorship. The gove
 
 Social media came and started doing the opposite of censorship. You can now drown people in the sea of information. You can make it very difficult or impossible for people telling the truth to get attention by doing what Steve Bannon called flooding the zone with shit. 
 <p align="center">
-  <img src="/dharma/img/putin.png" width="50%">
+  <img src="/Dharma/img/putin.png" width="50%">
 </p>
 <span> <p style="text-align:center;"> *Putin by Robert Kuzovkov who was executed for criticisizing him but I think they should have let him cook his shit for its not much different from what they do (incesitize evil stuff)* </p> </span>
 <br>
