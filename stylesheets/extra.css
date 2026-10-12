@@ -587,22 +587,6 @@ body:not(.homepage) {
     margin-top: 0;
 }
 
-/* Shackles overlay only on devil.md */
-body:has(.devil-page-marker)::after {
-    content: "";
-    position: fixed;
-    inset: 0;
-
-    background-image: url("../img/shackle.png");
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    background-size: auto 180%;
-
-    opacity: 0.40;
-    pointer-events: none;
-    z-index: 9999;
-}
-
 /* Devil page: fixed background image */
 body:has(.devil-page-marker) {
     background-image: none !important;
@@ -618,7 +602,7 @@ body:has(.devil-page-marker)::before {
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: auto 180%;
-    opacity: 0.50:
+    opacity: 0.50;
     pointer-events: none;
     z-index: 0;
 }
@@ -898,4 +882,277 @@ body:has(.devil-page-marker) td {
   }
 }
 
+/* HOMEPAGE LAYOUT */
 
+body.homepage .home-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px;
+  gap: 1rem;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+body.homepage .home-main,
+body.homepage .home-sidebar {
+  min-width: 0;
+}
+
+body.homepage .home-main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+body.homepage .home-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* RETRO PANELS */
+
+body.homepage .home-panel {
+  border: 1px solid white;
+  padding: 1rem;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+body.homepage .home-panel h1,
+body.homepage .home-panel h2 {
+  margin-top: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+body.homepage .home-panel h2 {
+  font-size: 1rem;
+  border-bottom: 1px dashed currentColor;
+  padding-bottom: 0.5rem;
+}
+
+body.homepage .home-panel h3 {
+  font-size: 0.85rem;
+}
+
+body.homepage .home-panel p:last-child,
+body.homepage .home-panel ul:last-child {
+  margin-bottom: 0;
+}
+
+body.homepage .home-panel a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+body.homepage .muted {
+  opacity: 0.7;
+  font-size: 0.8rem;
+}
+
+/* CLOCK */
+
+body.homepage .clock-panel {
+  text-align: center;
+}
+
+body.homepage #dharma-clock {
+  font-family: monospace;
+  font-size: clamp(1.4rem, 2vw, 2rem);
+  font-weight: bold;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.05em;
+  margin: 1rem 0 0.5rem;
+}
+
+body.homepage #dharma-date {
+  font-family: monospace;
+  font-size: 0.85rem;
+}
+
+/* DIVIDER */
+
+body.homepage .dotted-divider {
+  border-top: 1px dotted currentColor;
+  margin: 1rem 0;
+  opacity: 0.6;
+}
+
+/* REMOVE EXCESS MATERIAL WIDTH CONSTRAINTS */
+
+body.homepage .md-content {
+  max-width: none;
+  margin: 0;
+}
+
+body.homepage .md-content__inner {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+/* RESPONSIVE */
+
+@media (min-width: 76rem) {
+  body.homepage .home-layout {
+    grid-template-columns: minmax(0, 1fr) 240px;
+    gap: 1.25rem;
+  }
+}
+
+@media (max-width: 50rem) {
+  body.homepage .home-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  body.homepage .home-sidebar {
+    order: 2;
+  }
+}
+
+/* =========================================================
+   DHARMA — TYPOGRAPHY, ARTICLE ELEMENTS & RESPONSIVE TABLES
+   Deliberately limited overrides: existing colors, navigation,
+   backgrounds, terminal, homepage, image alignment, carousel,
+   and page-specific effects are otherwise left untouched.
+   ========================================================= */
+
+/* Refined typography */
+.md-typeset {
+  color: #e8e3da;
+  font-size: 0.88rem;
+  line-height: 1.8;
+}
+
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.8;
+}
+
+.md-typeset p {
+  margin-block: 0.85em;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  color: #eee8df;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.md-typeset h1 {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px dashed rgba(220, 212, 200, 0.35);
+}
+
+/* No divider under the centered Georgia headings used in ad.md */
+.md-typeset h1[style*="text-align: center"][style*="Georgia"] {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.md-typeset h2 {
+  font-size: clamp(1.3rem, 2.7vw, 1.65rem);
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px dashed rgba(220, 212, 200, 0.28);
+}
+
+.md-typeset h3 {
+  font-size: 1.15rem;
+  margin-top: 1.5rem;
+}
+
+/* Subtle article elements */
+.md-typeset blockquote {
+  border-left: 2px solid rgba(220, 212, 200, 0.42);
+  color: #d1cbc1;
+  background: rgba(255, 255, 255, 0.025);
+  padding: 0.25rem 1rem;
+}
+
+.md-typeset code {
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 0.08em 0.28em;
+}
+
+.md-typeset pre {
+  border: 1px solid rgba(220, 212, 200, 0.16);
+  border-radius: 3px;
+}
+
+.md-typeset pre > code {
+  background: transparent;
+  border: 0;
+}
+
+.md-typeset table:not([class]) {
+  border: 1px solid rgba(220, 212, 200, 0.24);
+  font-size: 0.84rem;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  border-color: rgba(220, 212, 200, 0.18);
+}
+
+.md-typeset table:not([class]) th {
+  font-weight: 600;
+}
+
+/* Remove borders, outlines, and shadows from images site-wide */
+img {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* Responsive typography, spacing, and wide-table scrolling */
+@media screen and (max-width: 768px) {
+  .md-typeset {
+    font-size: 0.84rem;
+    line-height: 1.75;
+  }
+
+  .md-typeset p,
+  .md-typeset li {
+    line-height: 1.75;
+  }
+
+  .md-typeset h1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.35rem;
+    margin-top: 1.65rem;
+  }
+
+  .md-typeset h3 {
+    font-size: 1.08rem;
+    margin-top: 1.3rem;
+  }
+
+  .md-typeset table:not([class]) {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .md-typeset blockquote {
+    padding: 0.2rem 0.75rem;
+  }
+}
