@@ -15,16 +15,10 @@ body_class: homepage
 <div style="text-align:right;">— <a href="http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/index.html">Nowhere Community</a></div>
 
 <br>
-# Welcome to DHARMA
+## Welcome to DHARMA
 This is my personal webpage which serves to be an extension of my inner thoughts.
 I haven been wanting to write a diary for the longest time but it always felt like a daunting task.
 This place exists to be a not so personal diary of me where I write about the things I learn and experience without worrying about censorship.
-
-### Why host a static website instead of just using social media ?
-
-In short, because the Internet is DEAD.
-
-The internet of today is particularly defined by a few social media sites controlled by tech giants who dictate the [surveillance capitalism](panopticon.md#surveillance-capitalism) economy. It comprises more bots than humans. It is so frustrating to look up something and be bombarded with ai slop websites which are all a copy of eachother.
 
 ### Nature of content you will find here !
 

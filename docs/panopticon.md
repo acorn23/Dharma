@@ -36,6 +36,10 @@ Science cannot be morally judged for it simply waits to be used by humans who de
 This shows that humans would wage war even without science, for conflict is rooted in human nature itself.
 ### Weilding the Power of God
 
+<p align="center">
+  <img src="/Dharma/img/windows.gif" width="40%" >
+</p>
+
 The Nuclear Weapons were the pinnacle of destruction of the 20th century that did not only killed millions with their newfound destructive power but set in true terror in hearts of all humanity.
 
 Its been 81 years since their inception and while they enjoyed a period of dominance in the previous century, nukes were eventually succeeded by something far greater in the 21st. A weapon which decended from the very heavens, meant to be used only by **God** — omnipresence, the ability to be at all places at all times.

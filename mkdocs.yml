@@ -12,7 +12,7 @@ nav:
       - Postmodernism: postmodernism.md
       - Beauty: beauty.md
 
-  - Society:
+  - Social Critique:
       - Authority: authority.md
       - Effacing Empathy: manipulation.md
 
@@ -31,7 +31,6 @@ nav:
   - Guestbook: comments.md
   - Sponsored: ad.md
   - About: about.md
-
 theme:
   name: material
   custom_dir: overrides
