@@ -58,7 +58,7 @@ we think of it to be.
 #### Bacteria
 
 <p align="center">
-  <img src="img/bacteria.jpg" width="40%">
+  <img src="/Dharma/img/bacteria.jpg" width="40%" >
 </p>
 
 *Two bacterial colonies of E. Coli battling on agar visualized through
