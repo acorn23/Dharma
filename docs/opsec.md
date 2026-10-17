@@ -13,6 +13,8 @@ It’s important to understand that true privacy is impossible to achieve. Every
 
 Here, I briefly outline my OPSEC model. It works for me because I understand my threat model, know how to use these tools, and have adapted my behavior and lifestyle to be more privacy-conscious.
 
+The first step is to delete every social media service and other online service that you use. Otherwise there's not much point in going forward since the very foundations of our internet our built on a surveillance infrastructure.
+
 ## Phone
 
 <p align="center">
