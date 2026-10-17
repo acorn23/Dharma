@@ -18,15 +18,25 @@ The first step is to delete every social media service and other online service 
 There exists a wide variety of open source and decentralized alternatives to social media and other servicea which can be adopted.
 
 You can find a massive curated list of services and alternatives that respect your privacy [here](https://github.com/pluja/awesome-privacy)
+
 ## Phone
 
 <p align="center">
   <img src="/Dharma/img/phone.png" width="55%" >
 </p>
+I find it genuinely amusing how people feel compelled to purchase the latest iPhone or flagship smartphone, often at prices approaching those of a car. An iPhone Duo 2TB maximum-storage variant priced at ₹4,49,900 (USD $5,112) in India is a striking example. Despite its extraordinary computational capabilities, many users primarily employ it for doomscrolling, watching short-form videos, messaging, and taking photographs.
+
+From a technical perspective, this shows the disconnect between computational capability and actual utilisation. Modern flagship smartphones feature powerful SoCs, NPUs, advanced image signal processors, and sophisticated computational photography systems. Yet routine activities such as scrolling social media barely exploit their full processing potential. Although this hardware can improve responsiveness and longevity, its marginal practical value does not matter because far inferior and cheaper hardware can also achieve all of it. 
+
+The psychology behind this behaviour is equally interesting. Conspicuous consumption, a concept associated with economist Thorstein Veblen, describes purchasing goods partly to signal wealth and social status, a tendency increasingly visible in India’s status-conscious consumer culture. A flagship smartphone becomes more than a computing device; its branding, design, and recognisability serve as social signals. Consumers may therefore be paying not merely for technological capability, but for the prestige associated with owning it.
+
+The irony is that consumers often pay a premium for perceived privacy and security while accepting restrictions on software freedom and limited transparency into proprietary systems. 
+
+## My Phone
 
 My phone is my daily driver, and I’ve spent the most effort hardening it.
 As a matter of fact, installing custom roms and open source software have become more significant than ever given how Google is on the verge of [killing](https://keepandroidopen.org/) sideloading.
-### Hardware and software
+## Hardware and software
 
 I have a Xiaomi Mi 10T Pro (2020), which I bought around five years ago. It still runs as well as new.
 
@@ -38,17 +48,17 @@ It currently runs LineageOS 24.0-xxx-Nightly (Android 17), with the latest secur
 >
 > I wouldn’t recommend LineageOS to someone facing a dangerous adversary; in that case, GrapheneOS would be the better choice for its security.
 
-### Hardening tweaks
+## Hardening tweaks
 
-#### Root
+### Rooting
 
 I use [Magisk](https://github.com/topjohnwu/Magisk/) to gain root access, which lets me modify system files and apply hardening measures. One disadvantage compared with KernelSU is that Magisk must be manually installed via [ADB](https://developer.android.com/tools/adb) after each system update. This takes about two minutes, but Magisk has a large community and supports prebuilt modules.
 
-#### Debloating
+### Debloating
 
 For some reason, LineageOS still includes a few Google apps, such as Google Assistant. These can be removed with the De-bloater module.
 
-#### Captive portal
+### Captive portal
 
 Android’s captive-portal check contacts Google when connecting to public Wi-Fi. It can be replaced with a privacy-respecting alternative, such as Kuketz, or disabled altogether. Disabling it may make some public Wi-Fi networks harder to connect to.
 
@@ -67,16 +77,16 @@ To confirm the change, run:
 adb shell 'settings get global captive_portal_https_url'
 ```
 
-#### WebView
+### WebView
 
 The default WebView included with LineageOS is Chromium-based. It is open source, but includes some proprietary components maintained by Google. I replace it by installing the [Open WebView](https://github.com/Magisk-Modules-Alt-Repo/open_webview) module.
 
-#### Google Fused Location Provider
+### SUPL and Google Fused Location Provider
 
 SUPL is used as part of the A-GPS (Assisted GPS) system to get a faster Time to First Fix. The problem is that Android's implementation automatically sends the IMSI (ID of the SIM card) to the SUPL provider for no apparent reason. And because Google is the default provider it's a big breach of privacy.
 
 [SUPL replacer](https://github.com/Magisk-Modules-Alt-Repo/supl-replacer) module replaces the SUPL provider with a proxy server provided by GrapheneOS. The non-profit open source project is known for its security and privacy involvement.
-#### Connectivity checks
+### Connectivity checks
 
 When connecting to Wi-Fi or a cellular network, the phone may contact Google to check connectivity. I block these domains by adding them to my hosts file:
 
@@ -95,7 +105,7 @@ The app runs in root mode, using a kernel-level [AF+ firewall](https://github.co
 
 I also enabled per-network MAC-address randomization in the phone’s settings.
 
-#### Browser
+### Browser
 
 [WebLibre](https://github.com/FaFre/WebLibre) is my default browser. It is built on the Gecko engine and allows each website to run in its own isolated process. Profiles let me switch between Tor, I2P, and a direct connection.
 
@@ -146,7 +156,7 @@ xn--*$doc,popup,frame
 ||googleapis.com^$third-party
 ||googletagmanager.com^$third-party
 ```
-#### University
+### University
 
 My university requires me to use WhatsApp and sign in to its portal with a Google account assigned to students.
 
@@ -154,7 +164,7 @@ I keep the Google account in an isolated Tor container. This lets me access the 
 
 In India, WhatsApp is difficult to avoid, so I use it only for university matters.
 
-I run the WhatsApp app in an isolated Waydroid container on my Linux machine. On my phone, I use WhatsApp Web in the browser, routed through Tor. Custom extension rules help limit requests, and I use an extension to spoof a desktop user agent so the site works. WhatsApp can still collect metadata; messages are reportedly end-to-end encrypted. I use the service strictly for university.
+I run the WhatsApp app in an isolated Waydroid container on my Linux machine. On my phone, I use WhatsApp Web in the browser, routed through Tor. Custom extension rules help limit requests, and I use an extension to spoof a desktop user agent so the site works. WhatsApp can still collect metadata; messages are NOT end-to-end encrypted. I use the service strictly for university.
 
 My uBlock Origin rules for WhatsApp Web:
 
@@ -176,8 +186,6 @@ I originally tried to improve the privacy of the WhatsApp app by using XPL-EX to
 The web app is easier for me to control through browser settings and extensions.
 
 You might wonder why I route WhatsApp through Tor when Meta already knows my identity. I do this because I use networks outside my home, such as university Wi-Fi, and I don’t want Meta to associate those connections with my actual location.
-
-### Apps
 
 ## Apps
 
@@ -203,16 +211,16 @@ You might wonder why I route WhatsApp through Tor when Meta already knows my ide
 - **[ZArchiver](https://zdevs.ru/en/):** A proprietary file manager that I find easy to use. It doesn’t connect to the internet, but I block it with my firewall anyway.
 - **[KDE Connect](https://invent.kde.org/network/kdeconnect-android):** Connects my phone with my other Linux machines.
 
-### Web apps and self-hosting
+## Web apps and self-hosting
 
 I access other online services, such as email providers, through their websites. Their web versions offer an experience similar to their apps, and installing more apps adds complexity. Open source doesn’t automatically mean an app is free of trackers.
 
 I access other services I rely on, such as PDF tools and cloud storage, through my server.
 
-### Cellular
+## Cellular
 
 <p align="center">
-  <img src="/Dharma/img/phone.png" width="70%" >
+  <img src="/Dharma/img/pstn.png" width="70%" >
 </p>
 
 The Public Switched Telephone Network (PSTN), the dominant form of communication, is proprietary. So is the broadband chip in my phone. No one outside the manufacturers knows exactly what code it runs or what it can do.
@@ -232,3 +240,7 @@ I use Signal for calls, which lets me use my phone more like a landline.
 Without internet access or Google’s Fused Location Provider, my phone can take up to a minute to get a satellite fix. After that, the map app works smoothly.
 
 I also don’t use [microG](https://github.com/microg/) since Idon’t use proprietary apps that depend on Google Play services anymore, and microG’s notification services and other aspects tend to contact Google’s servers. 
+
+## Conclusion
+
+Ultimately, my ability to maintain a high degree of privacy and anonymity stems from learning to live without unnecessary dependence on invasive software and services. This approach is far from perfect and comes with its own practical limitations, but digital privacy is not merely a matter of choosing secure tools; it also requires making deliberate decisions about one's digital footprint, data exposure, and dependence on centralised platforms. The real challenge is balancing operational security (OPSEC) with the practical demands of participating in the society I live in, without compromising more of my autonomy than necessary.
