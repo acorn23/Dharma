@@ -1759,10 +1759,12 @@
 <p>That really is it. It’s impossible to fight powerful tech companies with trillions of dollars at their disposal. But we can always opt out.</p>
 <p>It’s important to understand that true privacy is impossible to achieve. Everything we do can only reduce our digital footprint.</p>
 <p>Here, I briefly outline my OPSEC model. It works for me because I understand my threat model, know how to use these tools, and have adapted my behavior and lifestyle to be more privacy-conscious.</p>
-<p>The first step is to delete every social media service and other online service that you use. Otherwise there's not much point in going forward since the very foundations of our internet our built on a surveillance infrastructure.</p>
+<p>The first step is to delete every social media service and other online service that you use. Otherwise there's not much point in going forward since the very foundations of our internet are built on a surveillance infrastructure.</p>
+<p>There exists a wide variety of open source and decentralized alternatives to social media and other servicea which can be adopted.</p>
+<p>You can find a massive curated list of services and alternatives that respect your privacy <a href="https://github.com/pluja/awesome-privacy">here</a></p>
 <h2 id="phone">Phone</h2>
 <p align="center">
-  <img src="/Dharma/img/phone.png" width="40%" >
+  <img src="/Dharma/img/phone.png" width="55%" >
 </p>
 
 <p>My phone is my daily driver, and I’ve spent the most effort hardening it.
@@ -1813,12 +1815,12 @@ connectivitycheck.android.com
 <ul>
 <li><strong><a href="https://github.com/darkreader/darkreader">Dark Reader</a>:</strong> Applies a dark theme to websites. I can’t do without it.</li>
 <li><strong><a href="https://github.com/libredirect/browser_extension">LibRedirect</a>:</strong> Redirects links to popular services such as YouTube, Reddit, IMDb, and Pinterest to privacy-respecting front ends and back ends. This lets me browse some services without visiting their original sites or signing in.</li>
-<li><strong><a href="https://github.com/gorhill/uBlock">uBlock Origin</a>:</strong> My preferred ad blocker.</li>
 <li><strong><a href="https://privacybadger.org/">Privacy Badger</a>:</strong> Detects tracking domains and blocks them.</li>
 <li><strong><a href="https://noscript.net/">NoScript</a>:</strong> Disables JavaScript by default and lets me allow it for individual websites. It also helps reduce exposure to cross-site scripting attacks.</li>
-<li><strong><a href="https://codeberg.org/nobody/LocalCDN">LocalCDN</a>:</strong> Blocks requests to external CDNs and serves some resources locally to reduce external requests.
-My custom rules:</li>
+<li><strong><a href="https://codeberg.org/nobody/LocalCDN">LocalCDN</a>:</strong> Blocks requests to external CDNs and serves some resources locally to reduce external requests.</li>
+<li><strong><a href="https://github.com/gorhill/uBlock">uBlock Origin</a>:</strong> The best ad blocker and should be used by everyone to surf the web.</li>
 </ul>
+<p>My custom rules for Ublock Origin:</p>
 <pre><code class="language-text">! Block punycode/IDN domains in documents, popups, and frames
 xn--*$doc,popup,frame
 
@@ -1887,7 +1889,7 @@ xn--*$doc,popup,frame
 <li><strong><a href="https://f-droid.org/packages/universe.constellation.orion.viewer/">Orion Viewer</a>:</strong> A PDF and file viewer.</li>
 <li><strong><a href="https://f-droid.org/packages/org.documentfoundation.libreoffice/">LibreOffice Viewer</a>:</strong> A document viewer.</li>
 <li><strong><a href="https://github.com/ossappscollective/OSS-DocumentScanner">OSS Document Scanner</a>:</strong> Scans documents and creates PDFs. I prefer it to Adobe Scan.</li>
-<li><strong><a href="https://powerampapp.com/">Poweramp</a>:</strong> A music player.</li>
+<li><strong><a href="https://powerampapp.com/">Poweramp</a>:</strong> Best music player for android.</li>
 <li><strong><a href="https://github.com/lollipopkit/flutter_server_box">ServerBox</a>:</strong> Connects to my server over SSH and helps me manage it.</li>
 <li><strong><a href="https://github.com/tailscale/tailscale">Tailscale</a>:</strong> Lets me connect to my server remotely.</li>
 <li><strong><a href="https://github.com/mollyim/mollyim-android">Molly</a>:</strong> A hardened Signal fork that’s easy to recommend because of its simplicity and privacy features.</li>
@@ -1901,7 +1903,10 @@ xn--*$doc,popup,frame
 <p>I access other online services, such as email providers, through their websites. Their web versions offer an experience similar to their apps, and installing more apps adds complexity. Open source doesn’t automatically mean an app is free of trackers.</p>
 <p>I access other services I rely on, such as PDF tools and cloud storage, through my server.</p>
 <h3 id="cellular">Cellular</h3>
-<p><img alt="Connectivity" src="../img/pstn.png" /></p>
+<p align="center">
+  <img src="/Dharma/img/phone.png" width="70%" >
+</p>
+
 <p>The Public Switched Telephone Network (PSTN), the dominant form of communication, is proprietary. So is the broadband chip in my phone. No one outside the manufacturers knows exactly what code it runs or what it can do.</p>
 <p>Cellular providers collect extensive information about how their networks are used. They can see whom you call and for how long; calls and SMS are not encrypted by the cellular network. Providers can also record timestamps and connections made over the network. Your location can be estimated through cell-tower triangulation.</p>
 <p>This information can be used to profile you, sold to data brokers, or shared with government agencies. Data brokers may also sell personal information to others.</p>
@@ -1910,7 +1915,7 @@ xn--*$doc,popup,frame
 <p>I mostly rely on home Wi-Fi and connect to my university’s public Wi-Fi when I’m there. If I go elsewhere, I ask to use the available Wi-Fi. Between those networks, I’m disconnected. In an emergency, I can ask someone nearby to share a hotspot.</p>
 <p>I use Signal for calls, which lets me use my phone more like a landline.</p>
 <p>Without internet access or Google’s Fused Location Provider, my phone can take up to a minute to get a satellite fix. After that, the map app works smoothly.</p>
-<p>I also don’t use <a href="https://github.com/microg/">microG</a>. I don’t use proprietary apps that depend on Google Play services, and microG’s notification services may contact Google’s servers.</p>
+<p>I also don’t use <a href="https://github.com/microg/">microG</a> since Idon’t use proprietary apps that depend on Google Play services anymore, and microG’s notification services and other aspects tend to contact Google’s servers. </p>
 
 
 
