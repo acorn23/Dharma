@@ -7,7 +7,7 @@
 <span> <p style="text-align:right;">~Sun Tzu, The Art of War 400–320 BC</p> </span>
 
 <p align="center">
-  <img src="/Dharma/img/opsec.jpg" width="55%" >
+  <img src="/Dharma/img/opsec.jpg" width="40%" >
 </p>
 <center>Women's Army Corps anti-rumor propaganda (1941–1945)</center>
 
