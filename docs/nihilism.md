@@ -1,7 +1,7 @@
 # Nihilism
-
+<span> <p style="text-align:right;"> *17-10-2026* </p> </span>
 <p align="center">
-  <img src="/Dharma/img/Jan_Matejko_Stanczyk.webp" width="60%" >
+  <img src="/Dharma/img/Jan_Matejko_Stanczyk.webp" width="100%" >
 </p>
 <center>Stańczyk by Jan Matejko</center>
 
