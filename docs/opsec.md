@@ -13,12 +13,15 @@ It’s important to understand that true privacy is impossible to achieve. Every
 
 Here, I briefly outline my OPSEC model. It works for me because I understand my threat model, know how to use these tools, and have adapted my behavior and lifestyle to be more privacy-conscious.
 
-The first step is to delete every social media service and other online service that you use. Otherwise there's not much point in going forward since the very foundations of our internet our built on a surveillance infrastructure.
+The first step is to delete every social media service and other online service that you use. Otherwise there's not much point in going forward since the very foundations of our internet are built on a surveillance infrastructure.
 
+There exists a wide variety of open source and decentralized alternatives to social media and other servicea which can be adopted.
+
+You can find a massive curated list of services and alternatives that respect your privacy [here](https://github.com/pluja/awesome-privacy)
 ## Phone
 
 <p align="center">
-  <img src="/Dharma/img/phone.png" width="40%" >
+  <img src="/Dharma/img/phone.png" width="55%" >
 </p>
 
 My phone is my daily driver, and I’ve spent the most effort hardening it.
@@ -102,11 +105,12 @@ I use several extensions to improve privacy without compromising fingerprinting 
 
 - **[Dark Reader](https://github.com/darkreader/darkreader):** Applies a dark theme to websites. I can’t do without it.
 - **[LibRedirect](https://github.com/libredirect/browser_extension):** Redirects links to popular services such as YouTube, Reddit, IMDb, and Pinterest to privacy-respecting front ends and back ends. This lets me browse some services without visiting their original sites or signing in.
-- **[uBlock Origin](https://github.com/gorhill/uBlock):** My preferred ad blocker.
 - **[Privacy Badger](https://privacybadger.org/):** Detects tracking domains and blocks them.
 - **[NoScript](https://noscript.net/):** Disables JavaScript by default and lets me allow it for individual websites. It also helps reduce exposure to cross-site scripting attacks.
 - **[LocalCDN](https://codeberg.org/nobody/LocalCDN):** Blocks requests to external CDNs and serves some resources locally to reduce external requests.
-My custom rules:
+-  **[uBlock Origin](https://github.com/gorhill/uBlock):** The best ad blocker and should be used by everyone to surf the web.
+
+My custom rules for Ublock Origin:
 
 ```text
 ! Block punycode/IDN domains in documents, popups, and frames
@@ -189,7 +193,7 @@ You might wonder why I route WhatsApp through Tor when Meta already knows my ide
 - **[Orion Viewer](https://f-droid.org/packages/universe.constellation.orion.viewer/):** A PDF and file viewer.
 - **[LibreOffice Viewer](https://f-droid.org/packages/org.documentfoundation.libreoffice/):** A document viewer.
 - **[OSS Document Scanner](https://github.com/ossappscollective/OSS-DocumentScanner):** Scans documents and creates PDFs. I prefer it to Adobe Scan.
-- **[Poweramp](https://powerampapp.com/):** A music player.
+- **[Poweramp](https://powerampapp.com/):** Best music player for android.
 - **[ServerBox](https://github.com/lollipopkit/flutter_server_box):** Connects to my server over SSH and helps me manage it.
 - **[Tailscale](https://github.com/tailscale/tailscale):** Lets me connect to my server remotely.
 - **[Molly](https://github.com/mollyim/mollyim-android):** A hardened Signal fork that’s easy to recommend because of its simplicity and privacy features.
@@ -207,7 +211,9 @@ I access other services I rely on, such as PDF tools and cloud storage, through 
 
 ### Cellular
 
-![Connectivity](img/pstn.png)
+<p align="center">
+  <img src="/Dharma/img/phone.png" width="70%" >
+</p>
 
 The Public Switched Telephone Network (PSTN), the dominant form of communication, is proprietary. So is the broadband chip in my phone. No one outside the manufacturers knows exactly what code it runs or what it can do.
 
@@ -225,4 +231,4 @@ I use Signal for calls, which lets me use my phone more like a landline.
 
 Without internet access or Google’s Fused Location Provider, my phone can take up to a minute to get a satellite fix. After that, the map app works smoothly.
 
-I also don’t use [microG](https://github.com/microg/). I don’t use proprietary apps that depend on Google Play services, and microG’s notification services may contact Google’s servers.
+I also don’t use [microG](https://github.com/microg/) since Idon’t use proprietary apps that depend on Google Play services anymore, and microG’s notification services and other aspects tend to contact Google’s servers. 
