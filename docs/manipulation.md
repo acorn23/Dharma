@@ -1,5 +1,5 @@
 # Effacing Empathy
-<span> <p style="text-align:right;"> *2026-10-10* </p> </span>
+<span> <p style="text-align:right;"> *10-10-2026* </p> </span>
 When the Epstein case was still hot in the beginning of 2026, my friend told me how social media psyops have turned it all into a funny buisness when it was far from it. 
 By flooding the platforms with lot of jokes and memes, the people grew numb to it or insensitized as he put it. 
 
@@ -7,7 +7,10 @@ Seven months later today, my newspaper reports on how U.S. military plans to liv
 
 Pentagon chief Peter Hegseth justified the act by stating that people need to understand that there are serious consequences to their actions even when the UN condemned the execution method for amounting to torture.
 
-### Old Sparky
+<span style="color:#f59e0b;font-weight:700;"> 
+&#128276; UPDATE:</span> As of 16-10-2026, the plan to livestream the execution has been canceled over dumb reasons given by Trump but it's none the less something that the White House officially intended at some point. The execution will still take place by firing squad.
+
+## Old Sparky
 
 ![Electric Chair](img/chair.jpg)
  <span> <p style="text-align:center;">*Little Electric Chair by Andy Warhol*
@@ -20,7 +23,7 @@ Pentagon chief Peter Hegseth justified the act by stating that people need to un
 <br>
 Little Electric Chair depicts a chair dubbed ‘Old Sparky’ at the Sing Sing penitentiary in New York with a. While the dark and grainy texture creates a foreboding mood, the actual content of the image is fairly unassuming; an empty chair in a room. However, when the piece is contextualized with its name and history, the terror and intent of the paintings is revealed. The fact that the subject is not an imaginary or ancient device, but a real, modern instrument for killing, invokes a harsh realization and a sense of panic. The reality that people have died in this chair gives the piece its weight.
 
- A main rationale for capital punishment is deterrence, exploiting self-preservation to prevent crime. 
+A main rationale for capital punishment is deterrence, exploiting self-preservation to prevent crime. 
 
 ### Exploiting human psychology
 
@@ -30,7 +33,7 @@ As seen in [understanding reality](reality.md#various-bias) section, human psych
 
 So if you can manipulate the apparent consensus, you can make people doubt their beliefs. At a maximum, you can make people change their beliefs and at a minimum, you can make people shut up.
  
-### Social media opened new frontiers for manipualrion
+## Social media opened new frontiers for manipualrion
 
 
 Before social media came, one way to manipulate reality was censorship. The government would have the gatekeepers and threaten to prosecute or shutdown the outlets if they disagreed.

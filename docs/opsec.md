@@ -1,4 +1,23 @@
-# My OPSEC
+# Practicing OPSEC as an Individual
+<span> <p style="text-align:right;"> *17-10-2026* </p> </span>
+## What is OPSEC
+
+>“If I am able to determine the enemy’s dispositions while at the same time I conceal my own, then I can concentrate and he must divide.”
+
+<span> <p style="text-align:right;">~Sun Tzu, The Art of War 400–320 BC</p> </span>
+
+<p align="center">
+  <img src="/Dharma/img/opsec.jpg" width="55%" >
+</p>
+<center>Women's Army Corps anti-rumor propaganda (1941–1945)</center>
+
+Operational security is a process that identifies critical information to determine whether friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.
+
+It’s most important characteristic is that it is a capability that employs a process. OPSEC is not a collection of specific rules and instructions. It is an analytical, planning, and executional process that can be applied to any operation or activity for the purpose of denying critical information to an adversary.
+
+So while OPSEC began as practices for the US millitary to identify their adversaries and deny critical information to them, it has been gaining attention in the privacy communities of normal people who are tired of mass surveillance and surveillance capitalism economy.
+
+## Practicing OPSEC
 
 >My OPSEC model is rather extreme and difficult to replicate and live off therefore I highly recommend following this guide to achieve an acceptable level of privacy.
 >[The Android Defensive Security System](https://github.com/The-DresOS-Foundation/DresOS-The-Android-Defensive-Security-System)
@@ -11,7 +30,7 @@ That really is it. It’s impossible to fight powerful tech companies with trill
 
 It’s important to understand that true privacy is impossible to achieve. Everything we do can only reduce our digital footprint.
 
-Here, I briefly outline my OPSEC model. It works for me because I understand my threat model, know how to use these tools, and have adapted my behavior and lifestyle to be more privacy-conscious.
+Here, I briefly outline my OPSEC model. It works for me because I understand my threat model, know how to use these tools, and have adapted my behavior and lifestyle to be more privacy-conscious. Every individual has different circumstances and adversaries however here our adversaries appear to be rather common. It's the big tech companies trying to commodify us and extract as much information on us possible. I will not be sharing extremely sensitive insights as it will undermine my own OPSEC but I try to reveal it to an extent which can aid others shape their own models.
 
 The first step is to delete every social media service and other online service that you use. Otherwise there's not much point in going forward since the very foundations of our internet are built on a surveillance infrastructure.
 
