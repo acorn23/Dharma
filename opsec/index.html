@@ -1,0 +1,2006 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://acorn23.github.io/dharma/opsec/">
+      
+      
+        <link rel="prev" href="../panopticon/">
+      
+      
+        <link rel="next" href="../ai/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../img/atom.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>My OPSEC - Dharma</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="teal">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#my-opsec" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Dharma" class="md-header__button md-logo" aria-label="Dharma" data-md-component="logo">
+      
+  <img src="../img/atom.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dharma
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              My OPSEC
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../introduction/" class="md-tabs__link">
+          
+  
+  
+  Philosophy
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../authority/" class="md-tabs__link">
+          
+  
+  
+  Social Critique
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../panopticon/" class="md-tabs__link">
+          
+  
+  
+  Surveillance
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../ukraine/" class="md-tabs__link">
+          
+  
+  
+  Geopolitics
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../resources/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Resources
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../comments/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Guestbook
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../ad/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Sponsored
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../about/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Dharma" class="md-nav__button md-logo" aria-label="Dharma" data-md-component="logo">
+      
+  <img src="../img/atom.png" alt="logo">
+
+    </a>
+    Dharma
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Philosophy
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Philosophy
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../introduction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introduction
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../reality/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Understanding Reality
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../death/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morality and Death
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../superstition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Superstition and Belief Systems
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../postmodernism/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Postmodernism
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../beauty/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Beauty
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Social Critique
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Social Critique
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../authority/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Authority
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../manipulation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Effacing Empathy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Surveillance
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Surveillance
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../panopticon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    You are a Commodity
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My OPSEC
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    My OPSEC
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#phone" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Phone
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phone">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hardware-and-software" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardware and software
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardening-tweaks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardening tweaks
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Hardening tweaks">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#root" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Root
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#debloating" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Debloating
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#captive-portal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Captive portal
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#webview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        WebView
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#google-fused-location-provider" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Google Fused Location Provider
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#connectivity-checks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Connectivity checks
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#opsec" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OPSEC
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="OPSEC">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#browser" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Browser
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#extensions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Extensions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#university" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        University
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Apps
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apps_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Apps
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Apps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web-apps-and-self-hosting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Web apps and self-hosting
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cellular" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cellular
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ai/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI Enabled Mass Surveillance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Geopolitics
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Geopolitics
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ukraine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ukraine War
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../gaza/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gaza Genocide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    India
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    India
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../autocracy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Withering Democracy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../finance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Financial System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resources
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../comments/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guestbook
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ad/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sponsored
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#phone" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Phone
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Phone">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hardware-and-software" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardware and software
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hardening-tweaks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardening tweaks
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Hardening tweaks">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#root" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Root
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#debloating" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Debloating
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#captive-portal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Captive portal
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#webview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        WebView
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#google-fused-location-provider" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Google Fused Location Provider
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#connectivity-checks" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Connectivity checks
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#opsec" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OPSEC
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="OPSEC">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#browser" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Browser
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#extensions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Extensions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#university" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        University
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#apps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Apps
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#apps_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Apps
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Apps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#web-apps-and-self-hosting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Web apps and self-hosting
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cellular" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cellular
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="my-opsec">My OPSEC</h1>
+<blockquote>
+<p>My OPSEC model is rather extreme and difficult to replicate and live off therefore I highly recommend following this guide to achieve an acceptable level of privacy.
+<a href="https://github.com/The-DresOS-Foundation/DresOS-The-Android-Defensive-Security-System">The Android Defensive Security System</a></p>
+</blockquote>
+<p>In the <a href="../panopticon/">“You are a commodity”</a> section, we saw how much power tech companies have over us and how many aspects of our lives they can affect, directly or indirectly. So, how do we escape it?</p>
+<blockquote>
+<p>The only winning move is not to play.</p>
+</blockquote>
+<p>That really is it. It’s impossible to fight powerful tech companies with trillions of dollars at their disposal. But we can always opt out.</p>
+<p>It’s important to understand that true privacy is impossible to achieve. Everything we do can only reduce our digital footprint.</p>
+<p>Here, I briefly outline my OPSEC model. It works for me because I understand my threat model, know how to use these tools, and have adapted my behavior and lifestyle to be more privacy-conscious.</p>
+<h2 id="phone">Phone</h2>
+<p align="center">
+  <img src="/Dharma/img/phone.png" width="40%" >
+</p>
+
+<p>My phone is my daily driver, and I’ve spent the most effort hardening it.
+As a matter of fact, installing custom roms and open source software have become more significant than ever given how Google is on the verge of <a href="https://keepandroidopen.org/">killing</a> sideloading.</p>
+<h3 id="hardware-and-software">Hardware and software</h3>
+<p>I have a Xiaomi Mi 10T Pro (2020), which I bought around five years ago. It still runs as well as new.</p>
+<p>It currently runs LineageOS 24.0-xxx-Nightly (Android 17), with the latest security patch as of October 11, 2026.</p>
+<p><a href="https://lineageos.org/">LineageOS</a> provides a recent, debloated Android build for many devices, but it still relies on some Google components and requires manual hardening.</p>
+<blockquote>
+<p><a href="https://grapheneos.org/">GrapheneOS</a> is the best privacy-focused custom ROM for Android phones, in my opinion. However, it is available only for Google Pixel devices, which I don’t own. GrapheneOS offers unmatched security, while LineageOS can provide a similar level of privacy.</p>
+<p>I wouldn’t recommend LineageOS to someone facing a dangerous adversary; in that case, GrapheneOS would be the better choice for its security.</p>
+</blockquote>
+<h3 id="hardening-tweaks">Hardening tweaks</h3>
+<h4 id="root">Root</h4>
+<p>I use <a href="https://github.com/topjohnwu/Magisk/">Magisk</a> to gain root access, which lets me modify system files and apply hardening measures. One disadvantage compared with KernelSU is that Magisk must be manually installed via <a href="https://developer.android.com/tools/adb">ADB</a> after each system update. This takes about two minutes, but Magisk has a large community and supports prebuilt modules.</p>
+<h4 id="debloating">Debloating</h4>
+<p>For some reason, LineageOS still includes a few Google apps, such as Google Assistant. These can be removed with the De-bloater module.</p>
+<h4 id="captive-portal">Captive portal</h4>
+<p>Android’s captive-portal check contacts Google when connecting to public Wi-Fi. It can be replaced with a privacy-respecting alternative, such as Kuketz, or disabled altogether. Disabling it may make some public Wi-Fi networks harder to connect to.</p>
+<p>To set Kuketz as the captive portal, run these commands over ADB:</p>
+<pre><code class="language-sh">adb shell 'settings put global captive_portal_http_url &quot;http://captiveportal.kuketz.de&quot;'
+adb shell 'settings put global captive_portal_https_url &quot;https://captiveportal.kuketz.de&quot;'
+adb shell 'settings put global captive_portal_fallback_url &quot;http://captiveportal.kuketz.de&quot;'
+adb shell 'settings put global captive_portal_other_fall_back_urls &quot;http://captiveportal.kuketz.de&quot;'
+</code></pre>
+<p>To confirm the change, run:</p>
+<pre><code class="language-sh">adb shell 'settings get global captive_portal_https_url'
+</code></pre>
+<h4 id="webview">WebView</h4>
+<p>The default WebView included with LineageOS is Chromium-based. It is open source, but includes some proprietary components maintained by Google. I replace it by installing the <a href="https://github.com/Magisk-Modules-Alt-Repo/open_webview">Open WebView</a> module.</p>
+<h4 id="google-fused-location-provider">Google Fused Location Provider</h4>
+<p>SUPL is used as part of the A-GPS (Assisted GPS) system to get a faster Time to First Fix. The problem is that Android's implementation automatically sends the IMSI (ID of the SIM card) to the SUPL provider for no apparent reason. And because Google is the default provider it's a big breach of privacy.</p>
+<p><a href="https://github.com/Magisk-Modules-Alt-Repo/supl-replacer">SUPL replacer</a> module replaces the SUPL provider with a proxy server provided by GrapheneOS. The non-profit open source project is known for its security and privacy involvement.</p>
+<h4 id="connectivity-checks">Connectivity checks</h4>
+<p>When connecting to Wi-Fi or a cellular network, the phone may contact Google to check connectivity. I block these domains by adding them to my hosts file:</p>
+<pre><code class="language-text">connectivitycheck.gstatic.com
+connectivitycheck.android.com
+</code></pre>
+<p>With those changes in place, the phone no longer relies on Google services for these functions. Next is the software side.</p>
+<h3 id="opsec">OPSEC</h3>
+<p><a href="https://github.com/Gedsh/InviZible">InviZible Pro</a> is the backbone of my OPSEC setup. It combines <a href="https://www.dnscrypt.org/">DNSCrypt</a>, <a href="https://www.torproject.org/">Tor</a>, and <a href="https://i2p.net/en/">I2P</a> in one app.</p>
+<p>The app runs in root mode, using a kernel-level <a href="https://github.com/ukanth/afwall">AF+ firewall</a>. It provides these services system-wide and includes a kill switch that blocks apps from connecting if the services go down. DNSCrypt queries are encrypted, with enforcement handled at the kernel level through iptables.</p>
+<p>I also enabled per-network MAC-address randomization in the phone’s settings.</p>
+<h4 id="browser">Browser</h4>
+<p><a href="https://github.com/FaFre/WebLibre">WebLibre</a> is my default browser. It is built on the Gecko engine and allows each website to run in its own isolated process. Profiles let me switch between Tor, I2P, and a direct connection.</p>
+<h4 id="extensions">Extensions</h4>
+<p>I use several extensions to improve privacy without compromising fingerprinting protection:</p>
+<ul>
+<li><strong><a href="https://github.com/darkreader/darkreader">Dark Reader</a>:</strong> Applies a dark theme to websites. I can’t do without it.</li>
+<li><strong><a href="https://github.com/libredirect/browser_extension">LibRedirect</a>:</strong> Redirects links to popular services such as YouTube, Reddit, IMDb, and Pinterest to privacy-respecting front ends and back ends. This lets me browse some services without visiting their original sites or signing in.</li>
+<li><strong><a href="https://github.com/gorhill/uBlock">uBlock Origin</a>:</strong> My preferred ad blocker.</li>
+<li><strong><a href="https://privacybadger.org/">Privacy Badger</a>:</strong> Detects tracking domains and blocks them.</li>
+<li><strong><a href="https://noscript.net/">NoScript</a>:</strong> Disables JavaScript by default and lets me allow it for individual websites. It also helps reduce exposure to cross-site scripting attacks.</li>
+<li><strong><a href="https://codeberg.org/nobody/LocalCDN">LocalCDN</a>:</strong> Blocks requests to external CDNs and serves some resources locally to reduce external requests.
+My custom rules:</li>
+</ul>
+<pre><code class="language-text">! Block punycode/IDN domains in documents, popups, and frames
+xn--*$doc,popup,frame
+
+! Ads and analytics
+||doubleclick.net^$important
+||google-analytics.com^$important
+
+! Social tracking and third-party embeds
+||facebook.com^$important,third-party
+||facebook.net^$important,third-party
+||linkedin.com^$important,third-party
+||instagram.com^$important,third-party
+||tiktok.com^$important,third-party
+||twitter.com^$third-party
+||x.com^$third-party
+||gravatar.com^$important,third-party
+
+! Cloudflare challenges
+||challenges.cloudflare.com^$third-party
+@@||challenges.cloudflare.com/cdn-cgi/challenge-platform/$third-party,script,frame
+
+! Google reCAPTCHA
+||www.google.com^$third-party,subdocument
+@@||www.google.com/recaptcha/$third-party,subdocument
+||www.gstatic.com^$third-party,script
+@@||www.gstatic.com/recaptcha/$third-party,script
+
+! Google
+||google.com^$third-party
+||gstatic.com^$third-party
+||googleapis.com^$third-party
+||googletagmanager.com^$third-party
+</code></pre>
+<h4 id="university">University</h4>
+<p>My university requires me to use WhatsApp and sign in to its portal with a Google account assigned to students.</p>
+<p>I keep the Google account in an isolated Tor container. This lets me access the portal without using that account in my regular browsing environment.</p>
+<p>In India, WhatsApp is difficult to avoid, so I use it only for university matters.</p>
+<p>I run the WhatsApp app in an isolated Waydroid container on my Linux machine. On my phone, I use WhatsApp Web in the browser, routed through Tor. Custom extension rules help limit requests, and I use an extension to spoof a desktop user agent so the site works. WhatsApp can still collect metadata; messages are reportedly end-to-end encrypted. I use the service strictly for university.</p>
+<p>My uBlock Origin rules for WhatsApp Web:</p>
+<pre><code class="language-text">! WhatsApp Web
+||dit.whatsapp.net/deidentified_telemetry$xhr,third-party
+||crashlogs.whatsapp.net^
+||flows.whatsapp.net^
+||pps.whatsapp.net^
+||webtp.whatsapp.net^
+||graph.whatsapp.net^
+||mmg.whatsapp.net^
+||dit.whatsapp.net^
+||static.whatsapp.net/rsrc.php/yS/r/T_xj3a3ApC9.webp^
+</code></pre>
+<p>I originally tried to improve the privacy of the WhatsApp app by using XPL-EX to spoof system properties and a DNS blocker to block requests the app makes frequently. That approach wasn’t effective enough, so I concluded that the app should be used only in an isolated environment. It collects too much information for my comfort.</p>
+<p>The web app is easier for me to control through browser settings and extensions.</p>
+<p>You might wonder why I route WhatsApp through Tor when Meta already knows my identity. I do this because I use networks outside my home, such as university Wi-Fi, and I don’t want Meta to associate those connections with my actual location.</p>
+<h3 id="apps">Apps</h3>
+<h2 id="apps_1">Apps</h2>
+<ul>
+<li><strong><a href="https://github.com/ImranR98/Obtainium">Obtainium</a>:</strong> Installs and manages apps directly from their sources.</li>
+<li><strong><a href="https://www.comaps.app/">CoMaps</a>:</strong> A map app based on OpenStreetMap.</li>
+<li><strong><a href="https://github.com/FaFre/WebLibre">WebLibre</a>:</strong> My primary hardened browser.</li>
+<li><strong><a href="https://ironfoxoss.org/">IronFox</a>:</strong> My secondary hardened browser.</li>
+<li><strong><a href="https://www.torproject.org/download/#android">Tor Browser</a>:</strong> The official Tor browser.</li>
+<li><strong><a href="https://github.com/Kunzisoft/KeePassDX">KeePassDX</a>:</strong> An encrypted password manager and database.</li>
+<li><strong><a href="https://github.com/proninyaroslav/libretorrent">LibreTorrent</a>:</strong> A torrent client.</li>
+<li><strong><a href="https://github.com/MetrolistGroup/Metrolist">Metrolist</a>:</strong> An open-source YouTube Music app, routed through Tor.</li>
+<li><strong><a href="https://obsidian.md/">Obsidian</a>:</strong> A proprietary note-taking app. I haven’t found a free, open-source alternative that works as well for me. I block it with my firewall.</li>
+<li><strong><a href="https://f-droid.org/packages/universe.constellation.orion.viewer/">Orion Viewer</a>:</strong> A PDF and file viewer.</li>
+<li><strong><a href="https://f-droid.org/packages/org.documentfoundation.libreoffice/">LibreOffice Viewer</a>:</strong> A document viewer.</li>
+<li><strong><a href="https://github.com/ossappscollective/OSS-DocumentScanner">OSS Document Scanner</a>:</strong> Scans documents and creates PDFs. I prefer it to Adobe Scan.</li>
+<li><strong><a href="https://powerampapp.com/">Poweramp</a>:</strong> A music player.</li>
+<li><strong><a href="https://github.com/lollipopkit/flutter_server_box">ServerBox</a>:</strong> Connects to my server over SSH and helps me manage it.</li>
+<li><strong><a href="https://github.com/tailscale/tailscale">Tailscale</a>:</strong> Lets me connect to my server remotely.</li>
+<li><strong><a href="https://github.com/mollyim/mollyim-android">Molly</a>:</strong> A hardened Signal fork that’s easy to recommend because of its simplicity and privacy features.</li>
+<li><strong><a href="https://simplex.chat/downloads/">SimpleX</a>:</strong> My preferred instant-messaging app.</li>
+<li><strong><a href="https://github.com/UsagiApp/Usagi">Usagi</a>:</strong> A manga reader. I route it through Tor because it retrieves comics from various sources.</li>
+<li><strong><a href="https://windscribe.com/download">Windscribe</a>:</strong> A VPN with a free plan that includes 15 GB of data per month.</li>
+<li><strong><a href="https://zdevs.ru/en/">ZArchiver</a>:</strong> A proprietary file manager that I find easy to use. It doesn’t connect to the internet, but I block it with my firewall anyway.</li>
+<li><strong><a href="https://invent.kde.org/network/kdeconnect-android">KDE Connect</a>:</strong> Connects my phone with my other Linux machines.</li>
+</ul>
+<h3 id="web-apps-and-self-hosting">Web apps and self-hosting</h3>
+<p>I access other online services, such as email providers, through their websites. Their web versions offer an experience similar to their apps, and installing more apps adds complexity. Open source doesn’t automatically mean an app is free of trackers.</p>
+<p>I access other services I rely on, such as PDF tools and cloud storage, through my server.</p>
+<h3 id="cellular">Cellular</h3>
+<p><img alt="Connectivity" src="../img/pstn.png" /></p>
+<p>The Public Switched Telephone Network (PSTN), the dominant form of communication, is proprietary. So is the broadband chip in my phone. No one outside the manufacturers knows exactly what code it runs or what it can do.</p>
+<p>Cellular providers collect extensive information about how their networks are used. They can see whom you call and for how long; calls and SMS are not encrypted by the cellular network. Providers can also record timestamps and connections made over the network. Your location can be estimated through cell-tower triangulation.</p>
+<p>This information can be used to profile you, sold to data brokers, or shared with government agencies. Data brokers may also sell personal information to others.</p>
+<p>A YouTube video from 14 years ago, <a href="https://www.youtube.com/embed/Gv7Y0W0xmYQ?start=6">“Your phone company is watching” by Malte Spitz</a>, illustrates the scale of the issue. Surveillance infrastructure has advanced considerably since then.</p>
+<p>My phone stays in airplane mode about 99% of the time. I don’t recharge my mobile number unless I need to, and I avoid giving it out. There are no affordable VoIP-number providers in India outside the commercial sector, as far as I know.</p>
+<p>I mostly rely on home Wi-Fi and connect to my university’s public Wi-Fi when I’m there. If I go elsewhere, I ask to use the available Wi-Fi. Between those networks, I’m disconnected. In an emergency, I can ask someone nearby to share a hotspot.</p>
+<p>I use Signal for calls, which lets me use my phone more like a landline.</p>
+<p>Without internet access or Google’s Fused Location Provider, my phone can take up to a minute to get a satellite fix. After that, the map app works smoothly.</p>
+<p>I also don’t use <a href="https://github.com/microg/">microG</a>. I don’t use proprietary apps that depend on Google Play services, and microG’s notification services may contact Google’s servers.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../panopticon/" class="md-footer__link md-footer__link--prev" aria-label="Previous: You are a Commodity">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                You are a Commodity
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../ai/" class="md-footer__link md-footer__link--next" aria-label="Next: AI Enabled Mass Surveillance">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                AI Enabled Mass Surveillance
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.tabs", "navigation.tabs.sticky", "header.autohide", "navigation.footer", "search.suggest"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../javascripts/homepage.js"></script>
+      
+    
+  </body>
+</html>
